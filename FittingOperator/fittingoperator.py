@@ -220,9 +220,11 @@ def fittingoperator(clause_dir, C, verbose=True):
 
 def main():
     parser = argparse.ArgumentParser(description="Takes an input file of definite clauses (with exactly 1 head atom)\n"\
-                                     "Format:\t[HEAD_ATOM [BODY_POS_ATOMS] [BODY_NEG_ATOMS]]\n"\
-                                     "e.g.\t[h [a] [b c]]\n"\
-"Output derived literals with negation as failure", formatter_class=RawTextHelpFormatter) 
+                                     "Outputs derived literals with negation as failure\n"\
+                                     "\nDefinite Clause format:\n\t[HEAD_ATOM [BODY_POS_ATOMS] [BODY_NEG_ATOMS]]\n"\
+                                     "Example clause:\n\tIf it is summer, sunny, and not raining, I will go to the beach.\n"\
+                                     "\tbeach <- summer & sunny & ~rainy\n"\
+                                     "\t[beach [summer sunny] [rainy]]\n", formatter_class=RawTextHelpFormatter) 
     parser.add_argument("inputfile", type=str, help="File containing a set of clauses")
     args = parser.parse_args()
     inputfile = args.inputfile

@@ -1,18 +1,20 @@
-`fittingoperator.py` carries out definite clause reasoning with a closed-world assumption.
-Coded in
+Uses Python 3.5
 
 # Fitting Operator
-==============
 Script to carry out reasoning given an input file of definite clauses. Assumes a closed world via negation as failure.
 
-# `python fittingoperator.py -h`
-
+	python fittingoperator.py -h
 	usage: fittingoperator.py [-h] inputfile
 
 	Takes an input file of definite clauses (with exactly 1 head atom)
-	Format:	[HEAD_ATOM [BODY_POS_ATOMS] [BODY_NEG_ATOMS]]
-	e.g.	[h [a] [b c]]
-	Output derived literals with negation as failure
+	Outputs derived literals with negation as failure
+
+	Definite Clause format:
+		[HEAD_ATOM [BODY_POS_ATOMS] [BODY_NEG_ATOMS]]
+	Example clause:
+		If it is summer, sunny, and not raining, I will go to the beach.
+		beach <- summer & sunny & ~rainy
+		[beach [summer sunny] [rainy]]
 
 	positional arguments:
 	  inputfile   File containing a set of clauses
@@ -25,7 +27,7 @@ Script to carry out reasoning given an input file of definite clauses. Assumes a
 
 Consider the following clauses:
 
-* If someone eats meat, then they are are carnivore.
+* If someone eats meat, then they are a carnivore.
 * If someone eats vegetables and does not eat meat, then they are a herbivore.
 * There is an individual named Sam.
 * Sam eats ham.
