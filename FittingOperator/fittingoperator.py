@@ -39,12 +39,7 @@ def read_inputfile(filename):
                 else:
                     atom += i
             
-            print("{} <- {}".format(cl.head[0], " , ".join(cl.body_pos + [negate(x) for x in cl.body_neg])))
-##            # tautologies are not used
-##            if (len(cl.body_pos) != 0
-##                and len(cl.body_neg) != 0
-##                and len(set(cl.body_pos).intersection(set(cl.body_neg))) != 0):
-##                continue
+            print("\t{} <- {}".format(cl.head[0], " , ".join(cl.body_pos + [negate(x) for x in cl.body_neg])))
             
             clause_dir[cl.head[0]].append(cl)           
             
@@ -55,7 +50,7 @@ def read_inputfile(filename):
     # atoms that finitely fails are those found in the body but not the head
     # of any clauses in KB
     finitely_fails = set(all_body_atoms.difference(all_head_atoms))
-    print('atom(s) that finitely fail:')
+    print('\natom(s) that finitely fail:')
     print("\t"+" , ".join([r for r in finitely_fails]))
 
     return clause_dir, set([negate(x) for x in finitely_fails])
@@ -205,7 +200,7 @@ def fittingoperator(clause_dir, C, verbose=True):
                             print("\nAll clauses with same head:")
                             print("\t> "+"\n\t> ".join(map(get_clause, all_clauses)))
                         else:
-                            print("\nSelect: clause: " + get_clause(r))
+                            print("\nSelect clause: " + get_clause(r))
 
                         print("> "+msg)
                         print("> derived: {}".format(derived_atom))                       
