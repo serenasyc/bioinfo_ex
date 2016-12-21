@@ -44,29 +44,29 @@ The input file would appear as below:
 An example execution:
 
 	Reading clauses ...
-	Sam <- 
-	Carnivore <- EatsMeat
-	Herbivore <- EatsVegs , ~EatsMeat
-	EatsHam <- Sam
-	EatsMeat <- EatsHam
-	
+		Sam <- 
+		Carnivore <- EatsMeat
+		Herbivore <- EatsVegs , ~EatsMeat
+		EatsHam <- Sam
+		EatsMeat <- EatsHam
+
 	atom(s) that finitely fail:
 		EatsVegs
 
 	Running Fitting Operator ...
 	C = { ~EatsVegs }
 
-	Select: clause: Sam <- 
+	Select clause: Sam <- 
 	> clause has no body (is a fact)
 	> derived: Sam
 	C = { Sam , ~EatsVegs }
 
-	Select: clause: EatsHam <- Sam
+	Select clause: EatsHam <- Sam
 	> all atoms in the body are derived
 	> derived: EatsHam
 	C = { EatsHam , Sam , ~EatsVegs }
 
-	Select: clause: EatsMeat <- EatsHam
+	Select clause: EatsMeat <- EatsHam
 	> all atoms in the body are derived
 	> derived: EatsMeat
 	C = { EatsMeat , EatsHam , Sam , ~EatsVegs }
@@ -77,7 +77,7 @@ An example execution:
 	> derived: ~Herbivore
 	C = { EatsMeat , ~Herbivore , EatsHam , Sam , ~EatsVegs }
 
-	Select: clause: Carnivore <- EatsMeat
+	Select clause: Carnivore <- EatsMeat
 	> all atoms in the body are derived
 	> derived: Carnivore
 	C = { EatsMeat , EatsHam , Sam , ~EatsVegs , Carnivore , ~Herbivore }
