@@ -1,0 +1,5 @@
+[Sam [] []]
+[Carnivore [EatsMeat] []]
+[Herbivore [EatsVegs] [EatsMeat]]
+[EatsHam [Sam] []]
+[EatsMeat [EatsHam] []]
