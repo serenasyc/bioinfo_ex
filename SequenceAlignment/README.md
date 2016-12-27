@@ -43,7 +43,9 @@ Python 3.5
 
 	sequence-
 	--que--en
-	
+
+![Example of global alignment table](example_global.png)
+
 # Example 2
 	$ python align.py sequence queen -l
 
@@ -59,3 +61,5 @@ Python 3.5
 
 	que-n
 	queen
+	
+![Example of local alignment table](example_local.png)
