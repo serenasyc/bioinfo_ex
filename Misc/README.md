@@ -6,4 +6,4 @@ It was originally used as part of a decode and pairwise ranking optimization loo
 
 ## deFuse_overlay.py
 deFuse is a software package used to find gene fusions in RNA-Seq data. This script is used to convert and compare deFuse output between the two assemblies, GRCh37 and GRCh38.
-For more information, you can find the<a href="http://compbio.bccrc.ca/software/defuse/">source code here</a>.
+For more information, you can find the <a href="http://compbio.bccrc.ca/software/defuse/">source code here</a>.
