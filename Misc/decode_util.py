@@ -166,6 +166,41 @@ def backtrack(lastq, backpointers):
   sentence =  ' '.join(english_words[::-1])
   return sentence,scores
 
+
+def estimate_future_cost(f, tm, lm, weights):
+    '''
+    f   TUPLE   words of sentence in source language
+    tm  DICT    translation model
+    lm  CLASS   language model
+    w   LIST    of weights
+    Estimate future cost from tm and lm logprobs
+    '''
+    n = len(f)
+    cost = {}
+    for length in range(1,n+1):
+        for start in range(n+1-length):
+            end = start+length
+            key = (start,end)
+            cost[key] = 0
+            fr_phrase = f[start:end]
+            if fr_phrase in tm:
+                tmscores = []
+                for t in tm[fr_phrase]:
+                    lm_score = lm.score(tuple(), t.english)[1]
+                    t_score = np.array([lm_score,
+                                        0.0, 
+                                        t.phr_fe, t.lex_fe, t.phr_ef, t.lex_ef])
+                    t_score = weights*t_score
+                    tmscores.append(sum(t_score))
+                cost[key] = max(tmscores)
+            # if combined cost is less, replace cost
+            for i in range(start, end-1):
+                combined_cost = cost[(start,i+1)] + cost[(i+1,end)]
+                if combined_cost < cost[key]:
+                      cost[key] = combined_cost
+    return cost
+
+  
 ##borrowed from CMPT 413 @ SFU (Fall 2016) taught by Anoop Sarkar
 def bitmap(sequence):
   """ Generate a coverage bitmap for a sequence of indexes """
