@@ -1,0 +1,2134 @@
+s/ s/ From fairest creatures we desire increase, /s
+s/ s/ That thereby beauty's rose might never die, /s
+s/ s/ But as the riper should by time decease, /s
+s/ s/ His tender heir might bear his memory: /s
+s/ s/ But thou contracted to thine own bright eyes, /s
+s/ s/ Feed'st thy light's flame with self-substantial fuel, /s
+s/ s/ Making a famine where abundance lies, /s
+s/ s/ Thy self thy foe, to thy sweet self too cruel: /s
+s/ s/ Thou that art now the world's fresh ornament, /s
+s/ s/ And only herald to the gaudy spring, /s
+s/ s/ Within thine own bud buriest thy content, /s
+s/ s/ And, tender churl, mak'st waste in niggarding: /s
+s/ s/ Pity the world, or else this glutton be, /s
+s/ s/ To eat the world's due, by the grave and thee. /s
+s/ s/ When forty winters shall besiege thy brow, /s
+s/ s/ And dig deep trenches in thy beauty's field, /s
+s/ s/ Thy youth's proud livery so gazed on now, /s
+s/ s/ Will be a totter'd weed of small worth held: /s
+s/ s/ Then being asked, where all thy beauty lies, /s
+s/ s/ Where all the treasure of thy lusty days; /s
+s/ s/ To say, within thine own deep sunken eyes, /s
+s/ s/ Were an all-eating shame, and thriftless praise. /s
+s/ s/ How much more praise deserv'd thy beauty's use, /s
+s/ s/ If thou couldst answer 'This fair child of mine /s
+s/ s/ Shall sum my count, and make my old excuse ,' /s
+s/ s/ Proving his beauty by succession thine! /s
+s/ s/ This were to be new made when thou art old, /s
+s/ s/ And see thy blood warm when thou feel'st it cold. /s
+s/ s/ Look in thy glass and tell the face thou viewest /s
+s/ s/ Now is the time that face should form another; /s
+s/ s/ Whose fresh repair if now thou not renewest, /s
+s/ s/ Thou dost beguile the world, unbless some mother. /s
+s/ s/ For where is she so fair whose uneared womb /s
+s/ s/ Disdains the tillage of thy husbandry? /s
+s/ s/ Or who is he so fond will be the tomb /s
+s/ s/ Of his self-love, to stop posterity? /s
+s/ s/ Thou art thy mother's glass and she in thee /s
+s/ s/ Calls back the lovely April of her prime; /s
+s/ s/ So thou through windows of thine age shalt see, /s
+s/ s/ Despite of wrinkles, this thy golden time. /s
+s/ s/ But if thou live, remembered not to be, /s
+s/ s/ Die single and thine image dies with thee. /s
+s/ s/ Unthrifty loveliness, why dost thou spend /s
+s/ s/ Upon thy self thy beauty's legacy? /s
+s/ s/ Nature's bequest gives nothing, but doth lend, /s
+s/ s/ And being frank she lends to those are free: /s
+s/ s/ Then, beauteous niggard, why dost thou abuse /s
+s/ s/ The bounteous largess given thee to give? /s
+s/ s/ Profitless usurer, why dost thou use /s
+s/ s/ So great a sum of sums, yet canst not live? /s
+s/ s/ For having traffic with thy self alone, /s
+s/ s/ Thou of thy self thy sweet self dost deceive: /s
+s/ s/ Then how when nature calls thee to be gone, /s
+s/ s/ What acceptable audit canst thou leave? /s
+s/ s/ Thy unused beauty must be tombed with thee, /s
+s/ s/ Which, used, lives th' executor to be. /s
+s/ s/ Those hours, that with gentle work did frame /s
+s/ s/ The lovely gaze where every eye doth dwell, /s
+s/ s/ Will play the tyrants to the very same /s
+s/ s/ And that unfair which fairly doth excel; /s
+s/ s/ For never-resting time leads summer on /s
+s/ s/ To hideous winter, and confounds him there; /s
+s/ s/ Sap checked with frost, and lusty leaves quite gone, /s
+s/ s/ Beauty o'er-snowed and bareness every where: /s
+s/ s/ Then were not summer's distillation left, /s
+s/ s/ A liquid prisoner pent in walls of glass, /s
+s/ s/ Beauty's effect with beauty were bereft, /s
+s/ s/ Nor it, nor no remembrance what it was: /s
+s/ s/ But flowers distilled, though they with winter meet, /s
+s/ s/ Leese but their show; their substance still lives sweet. /s
+s/ s/ Then let not winter's ragged hand deface, /s
+s/ s/ In thee thy summer, ere thou be distilled: /s
+s/ s/ Make sweet some vial; treasure thou some place /s
+s/ s/ With beauty's treasure ere it be self-killed. /s
+s/ s/ That use is not forbidden usury, /s
+s/ s/ Which happies those that pay the willing loan; /s
+s/ s/ That's for thy self to breed another thee, /s
+s/ s/ Or ten times happier, be it ten for one; /s
+s/ s/ Ten times thy self were happier than thou art, /s
+s/ s/ If ten of thine ten times refigured thee: /s
+s/ s/ Then what could death do if thou shouldst depart, /s
+s/ s/ Leaving thee living in posterity? /s
+s/ s/ Be not self-willed, for thou art much too fair /s
+s/ s/ To be death's conquest and make worms thine heir. /s
+s/ s/ Lo! in the orient when the gracious light /s
+s/ s/ Lifts up his burning head, each under eye /s
+s/ s/ Doth homage to his new-appearing sight, /s
+s/ s/ Serving with looks his sacred majesty; /s
+s/ s/ And having climbed the steep-up heavenly hill, /s
+s/ s/ Resembling strong youth in his middle age, /s
+s/ s/ Yet mortal looks adore his beauty still, /s
+s/ s/ Attending on his golden pilgrimage: /s
+s/ s/ But when from highmost pitch, with weary car, /s
+s/ s/ Like feeble age, he reeleth from the day, /s
+s/ s/ The eyes, 'fore duteous, now converted are /s
+s/ s/ From his low tract, and look another way: /s
+s/ s/ So thou, thyself outgoing in thy noon /s
+s/ s/ Unlooked on diest unless thou get a son. /s
+s/ s/ Music to hear, why hear'st thou music sadly? /s
+s/ s/ Sweets with sweets war not, joy delights in joy: /s
+s/ s/ Why lov'st thou that which thou receiv'st not gladly, /s
+s/ s/ Or else receiv'st with pleasure thine annoy? /s
+s/ s/ If the true concord of well-tuned sounds, /s
+s/ s/ By unions married, do offend thine ear, /s
+s/ s/ They do but sweetly chide thee, who confounds /s
+s/ s/ In singleness the parts that thou shouldst bear. /s
+s/ s/ Mark how one string, sweet husband to another, /s
+s/ s/ Strikes each in each by mutual ordering; /s
+s/ s/ Resembling sire and child and happy mother, /s
+s/ s/ Who, all in one, one pleasing note do sing: /s
+s/ s/ Whose speechless song being many, seeming one, /s
+s/ s/ Sings this to thee: 'Thou single wilt prove none.' /s
+s/ s/ Is it for fear to wet a widow's eye, /s
+s/ s/ That thou consum'st thy self in single life? /s
+s/ s/ Ah! if thou issueless shalt hap to die, /s
+s/ s/ The world will wail thee like a makeless wife; /s
+s/ s/ The world will be thy widow and still weep /s
+s/ s/ That thou no form of thee hast left behind, /s
+s/ s/ When every private widow well may keep /s
+s/ s/ By children's eyes, her husband's shape in mind: /s
+s/ s/ Look what an unthrift in the world doth spend /s
+s/ s/ Shifts but his place, for still the world enjoys it; /s
+s/ s/ But beauty's waste hath in the world an end, /s
+s/ s/ And kept unused the user so destroys it. /s
+s/ s/ No love toward others in that bosom sits /s
+s/ s/ That on himself such murd'rous shame commits. /s
+s/ s/ For shame deny that thou bear'st love to any, /s
+s/ s/ Who for thy self art so unprovident. /s
+s/ s/ Grant, if thou wilt, thou art beloved of many, /s
+s/ s/ But that thou none lov'st is most evident: /s
+s/ s/ For thou art so possessed with murderous hate, /s
+s/ s/ That 'gainst thy self thou stick'st not to conspire, /s
+s/ s/ Seeking that beauteous roof to ruinate /s
+s/ s/ Which to repair should be thy chief desire. /s
+s/ s/ O! change thy thought, that I may change my mind: /s
+s/ s/ Shall hate be fairer lodged than gentle love? /s
+s/ s/ Be, as thy presence is, gracious and kind, /s
+s/ s/ Or to thyself at least kind-hearted prove: /s
+s/ s/ Make thee another self for love of me, /s
+s/ s/ That beauty still may live in thine or thee. /s
+s/ s/ As fast as thou shalt wane, so fast thou grow'st /s
+s/ s/ In one of thine, from that which thou departest; /s
+s/ s/ And that fresh blood which youngly thou bestow'st, /s
+s/ s/ Thou mayst call thine when thou from youth convertest. /s
+s/ s/ Herein lives wisdom, beauty, and increase; /s
+s/ s/ Without this folly, age, and cold decay: /s
+s/ s/ If all were minded so, the times should cease /s
+s/ s/ And threescore year would make the world away. /s
+s/ s/ Let those whom nature hath not made for store, /s
+s/ s/ Harsh, featureless, and rude, barrenly perish: /s
+s/ s/ Look whom she best endowed, she gave the more; /s
+s/ s/ Which bounteous gift thou shouldst in bounty cherish: /s
+s/ s/ She carved thee for her seal, and meant thereby, /s
+s/ s/ Thou shouldst print more, not let that copy die. /s
+s/ s/ When I do count the clock that tells the time, /s
+s/ s/ And see the brave day sunk in hideous night; /s
+s/ s/ When I behold the violet past prime, /s
+s/ s/ And sable curls, all silvered o'er with white; /s
+s/ s/ When lofty trees I see barren of leaves, /s
+s/ s/ Which erst from heat did canopy the herd, /s
+s/ s/ And summer's green all girded up in sheaves, /s
+s/ s/ Borne on the bier with white and bristly beard, /s
+s/ s/ Then of thy beauty do I question make, /s
+s/ s/ That thou among the wastes of time must go, /s
+s/ s/ Since sweets and beauties do themselves forsake /s
+s/ s/ And die as fast as they see others grow; /s
+s/ s/ O! that you were your self; but, love, you are /s
+s/ s/ No longer yours, than you your self here live: /s
+s/ s/ Against this coming end you should prepare, /s
+s/ s/ And your sweet semblance to some other give: /s
+s/ s/ So should that beauty which you hold in lease /s
+s/ s/ Find no determination; then you were /s
+s/ s/ Yourself again, after yourself's decease, /s
+s/ s/ When your sweet issue your sweet form should bear. /s
+s/ s/ Who lets so fair a house fall to decay, /s
+s/ s/ Which husbandry in honour might uphold, /s
+s/ s/ Against the stormy gusts of winter's day /s
+s/ s/ And barren rage of death's eternal cold? /s
+s/ s/ O! none but unthrifts. Dear my love, you know, /s
+s/ s/ You had a father: let your son say so. /s
+s/ s/ Not from the stars do I my judgement pluck; /s
+s/ s/ And yet methinks I have Astronomy, /s
+s/ s/ But not to tell of good or evil luck, /s
+s/ s/ Of plagues, of dearths, or seasons' quality; /s
+s/ s/ Nor can I fortune to brief minutes tell, /s
+s/ s/ Pointing to each his thunder, rain and wind, /s
+s/ s/ Or say with princes if it shall go well /s
+s/ s/ By oft predict that I in heaven find: /s
+s/ s/ But from thine eyes my knowledge I derive, /s
+s/ s/ And, constant stars, in them I read such art /s
+s/ s/ As truth and beauty shall together thrive, /s
+s/ s/ If from thyself, to store thou wouldst convert; /s
+s/ s/ Or else of thee this I prognosticate: /s
+s/ s/ Thy end is truth's and beauty's doom and date. /s
+s/ s/ When I consider every thing that grows /s
+s/ s/ Holds in perfection but a little moment, /s
+s/ s/ That this huge stage presenteth nought but shows /s
+s/ s/ Whereon the stars in secret influence comment; /s
+s/ s/ When I perceive that men as plants increase, /s
+s/ s/ Cheered and checked even by the self-same sky, /s
+s/ s/ Vaunt in their youthful sap, at height decrease, /s
+s/ s/ And wear their brave state out of memory; /s
+s/ s/ Then the conceit of this inconstant stay /s
+s/ s/ Sets you most rich in youth before my sight, /s
+s/ s/ Where wasteful Time debateth with decay /s
+s/ s/ To change your day of youth to sullied night, /s
+s/ s/ And all in war with Time for love of you, /s
+s/ s/ As he takes from you, I engraft you new. /s
+s/ s/ But wherefore do not you a mightier way /s
+s/ s/ Make war upon this bloody tyrant, Time? /s
+s/ s/ And fortify your self in your decay /s
+s/ s/ With means more blessed than my barren rhyme? /s
+s/ s/ Now stand you on the top of happy hours, /s
+s/ s/ And many maiden gardens, yet unset, /s
+s/ s/ With virtuous wish would bear you living flowers, /s
+s/ s/ Much liker than your painted counterfeit: /s
+s/ s/ So should the lines of life that life repair, /s
+s/ s/ Which this, Time's pencil, or my pupil pen, /s
+s/ s/ Neither in inward worth nor outward fair, /s
+s/ s/ Can make you live your self in eyes of men. /s
+s/ s/ To give away yourself, keeps yourself still, /s
+s/ s/ And you must live, drawn by your own sweet skill. /s
+s/ s/ Who will believe my verse in time to come, /s
+s/ s/ If it were filled with your most high deserts? /s
+s/ s/ Though yet heaven knows it is but as a tomb /s
+s/ s/ Which hides your life, and shows not half your parts. /s
+s/ s/ If I could write the beauty of your eyes, /s
+s/ s/ And in fresh numbers number all your graces, /s
+s/ s/ The age to come would say 'This poet lies; /s
+s/ s/ Such heavenly touches ne'er touched earthly faces.' /s
+s/ s/ So should my papers, yellowed with their age, /s
+s/ s/ Be scorned, like old men of less truth than tongue, /s
+s/ s/ And your true rights be termed a poet's rage /s
+s/ s/ And stretched metre of an antique song: /s
+s/ s/ But were some child of yours alive that time, /s
+s/ s/ You should live twice, in it, and in my rhyme. /s
+s/ s/ Shall I compare thee to a summer's day? /s
+s/ s/ Thou art more lovely and more temperate: /s
+s/ s/ Rough winds do shake the darling buds of May, /s
+s/ s/ And summer's lease hath all too short a date: /s
+s/ s/ Sometime too hot the eye of heaven shines, /s
+s/ s/ And often is his gold complexion dimmed, /s
+s/ s/ And every fair from fair sometime declines, /s
+s/ s/ By chance, or nature's changing course untrimmed: /s
+s/ s/ But thy eternal summer shall not fade, /s
+s/ s/ Nor lose possession of that fair thou ow'st, /s
+s/ s/ Nor shall death brag thou wander'st in his shade, /s
+s/ s/ When in eternal lines to time thou grow'st, /s
+s/ s/ So long as men can breathe, or eyes can see, /s
+s/ s/ So long lives this, and this gives life to thee. /s
+s/ s/ Devouring Time, blunt thou the lion's paws, /s
+s/ s/ And make the earth devour her own sweet brood; /s
+s/ s/ Pluck the keen teeth from the fierce tiger's jaws, /s
+s/ s/ And burn the long-lived phoenix in her blood; /s
+s/ s/ Make glad and sorry seasons as thou fleet'st, /s
+s/ s/ And do whate'er thou wilt, swift-footed Time, /s
+s/ s/ To the wide world and all her fading sweets; /s
+s/ s/ But I forbid thee one most heinous crime: /s
+s/ s/ O! carve not with thy hours my love's fair brow, /s
+s/ s/ Nor draw no lines there with thine antique pen; /s
+s/ s/ Him in thy course untainted do allow /s
+s/ s/ For beauty's pattern to succeeding men. /s
+s/ s/ Yet, do thy worst old Time: despite thy wrong, /s
+s/ s/ My love shall in my verse ever live young. /s
+s/ s/ A woman's face with nature's own hand painted, /s
+s/ s/ Hast thou, the master mistress of my passion; /s
+s/ s/ A woman's gentle heart, but not acquainted /s
+s/ s/ With shifting change, as is false women's fashion: /s
+s/ s/ An eye more bright than theirs, less false in rolling, /s
+s/ s/ Gilding the object whereupon it gazeth; /s
+s/ s/ A man in hue all hues in his controlling, /s
+s/ s/ Which steals men's eyes and women's souls amazeth. /s
+s/ s/ And for a woman wert thou first created; /s
+s/ s/ Till Nature, as she wrought thee, fell a-doting, /s
+s/ s/ And by addition me of thee defeated, /s
+s/ s/ By adding one thing to my purpose nothing. /s
+s/ s/ But since she prick'd thee out for women's pleasure, /s
+s/ s/ Mine be thy love and thy love's use their treasure. /s
+s/ s/ So is it not with me as with that Muse, /s
+s/ s/ Stirred by a painted beauty to his verse, /s
+s/ s/ Who heaven itself for ornament doth use /s
+s/ s/ And every fair with his fair doth rehearse, /s
+s/ s/ Making a couplement of proud compare /s
+s/ s/ With sun and moon, with earth and sea's rich gems, /s
+s/ s/ With April's first-born flowers, and all things rare, /s
+s/ s/ That heaven's air in this huge rondure hems. /s
+s/ s/ O! let me, true in love, but truly write, /s
+s/ s/ And then believe me, my love is as fair /s
+s/ s/ As any mother's child, though not so bright /s
+s/ s/ As those gold candles fixed in heaven's air: /s
+s/ s/ Let them say more that like of hearsay well; /s
+s/ s/ I will not praise that purpose not to sell. /s
+s/ s/ My glass shall not persuade me I am old, /s
+s/ s/ So long as youth and thou are of one date; /s
+s/ s/ But when in thee time's furrows I behold, /s
+s/ s/ Then look I death my days should expiate. /s
+s/ s/ For all that beauty that doth cover thee, /s
+s/ s/ Is but the seemly raiment of my heart, /s
+s/ s/ Which in thy breast doth live, as thine in me: /s
+s/ s/ How can I then be elder than thou art? /s
+s/ s/ O! therefore, love, be of thyself so wary /s
+s/ s/ As I, not for myself, but for thee will; /s
+s/ s/ Bearing thy heart, which I will keep so chary /s
+s/ s/ As tender nurse her babe from faring ill. /s
+s/ s/ Presume not on thy heart when mine is slain, /s
+s/ s/ Thou gav'st me thine not to give back again. /s
+s/ s/ As an unperfect actor on the stage, /s
+s/ s/ Who with his fear is put beside his part, /s
+s/ s/ Or some fierce thing replete with too much rage, /s
+s/ s/ Whose strength's abundance weakens his own heart; /s
+s/ s/ So I, for fear of trust, forget to say /s
+s/ s/ The perfect ceremony of love's rite, /s
+s/ s/ And in mine own love's strength seem to decay, /s
+s/ s/ O'ercharged with burthen of mine own love's might. /s
+s/ s/ O! let my looks be then the eloquence /s
+s/ s/ And dumb presagers of my speaking breast, /s
+s/ s/ Who plead for love, and look for recompense, /s
+s/ s/ More than that tongue that more hath more express'd. /s
+s/ s/ O! learn to read what silent love hath writ: /s
+s/ s/ To hear with eyes belongs to love's fine wit. /s
+s/ s/ Mine eye hath played the painter and hath steeled, /s
+s/ s/ Thy beauty's form in table of my heart; /s
+s/ s/ My body is the frame wherein 'tis held, /s
+s/ s/ And perspective that is best painter's art. /s
+s/ s/ For through the painter must you see his skill, /s
+s/ s/ To find where your true image pictured lies, /s
+s/ s/ Which in my bosom's shop is hanging still, /s
+s/ s/ That hath his windows glazed with thine eyes. /s
+s/ s/ Now see what good turns eyes for eyes have done: /s
+s/ s/ Mine eyes have drawn thy shape, and thine for me /s
+s/ s/ Are windows to my breast, where-through the sun /s
+s/ s/ Delights to peep, to gaze therein on thee; /s
+s/ s/ Yet eyes this cunning want to grace their art, /s
+s/ s/ They draw but what they see, know not the heart. /s
+s/ s/ Let those who are in favour with their stars /s
+s/ s/ Of public honour and proud titles boast, /s
+s/ s/ Whilst I, whom fortune of such triumph bars /s
+s/ s/ Unlook'd for joy in that I honour most. /s
+s/ s/ Great princes' favourites their fair leaves spread /s
+s/ s/ But as the marigold at the sun's eye, /s
+s/ s/ And in themselves their pride lies buried, /s
+s/ s/ For at a frown they in their glory die. /s
+s/ s/ The painful warrior famoused for fight, /s
+s/ s/ After a thousand victories once foiled, /s
+s/ s/ Is from the book of honour razed quite, /s
+s/ s/ And all the rest forgot for which he toiled: /s
+s/ s/ Then happy I, that love and am beloved, /s
+s/ s/ Lord of my love, to whom in vassalage /s
+s/ s/ Thy merit hath my duty strongly knit, /s
+s/ s/ To thee I send this written embassage, /s
+s/ s/ To witness duty, not to show my wit: /s
+s/ s/ Duty so great, which wit so poor as mine /s
+s/ s/ May make seem bare, in wanting words to show it, /s
+s/ s/ But that I hope some good conceit of thine /s
+s/ s/ In thy soul's thought, all naked, will bestow it: /s
+s/ s/ Till whatsoever star that guides my moving, /s
+s/ s/ Points on me graciously with fair aspect, /s
+s/ s/ And puts apparel on my tottered loving, /s
+s/ s/ To show me worthy of thy sweet respect: /s
+s/ s/ Then may I dare to boast how I do love thee; /s
+s/ s/ Till then, not show my head where thou mayst prove me. /s
+s/ s/ Weary with toil, I haste me to my bed, /s
+s/ s/ The dear repose for limbs with travel tired; /s
+s/ s/ But then begins a journey in my head /s
+s/ s/ To work my mind, when body's work's expired: /s
+s/ s/ For then my thoughts--from far where I abide-- /s
+s/ s/ Intend a zealous pilgrimage to thee, /s
+s/ s/ And keep my drooping eyelids open wide, /s
+s/ s/ Looking on darkness which the blind do see: /s
+s/ s/ Save that my soul's imaginary sight /s
+s/ s/ Presents thy shadow to my sightless view, /s
+s/ s/ Which, like a jewel hung in ghastly night, /s
+s/ s/ Makes black night beauteous, and her old face new. /s
+s/ s/ Lo! thus, by day my limbs, by night my mind, /s
+s/ s/ For thee, and for myself, no quiet find. /s
+s/ s/ How can I then return in happy plight, /s
+s/ s/ That am debarred the benefit of rest? /s
+s/ s/ When day's oppression is not eas'd by night, /s
+s/ s/ But day by night and night by day oppressed, /s
+s/ s/ And each, though enemies to either's reign, /s
+s/ s/ Do in consent shake hands to torture me, /s
+s/ s/ The one by toil, the other to complain /s
+s/ s/ How far I toil, still farther off from thee. /s
+s/ s/ I tell the day, to please him thou art bright, /s
+s/ s/ And dost him grace when clouds do blot the heaven: /s
+s/ s/ So flatter I the swart-complexion'd night, /s
+s/ s/ When sparkling stars twire not thou gild'st the even. /s
+s/ s/ But day doth daily draw my sorrows longer, /s
+s/ s/ And night doth nightly make grief's length seem stronger. /s
+s/ s/ When in disgrace with fortune and men's eyes /s
+s/ s/ I all alone beweep my outcast state, /s
+s/ s/ And trouble deaf heaven with my bootless cries, /s
+s/ s/ And look upon myself, and curse my fate, /s
+s/ s/ Wishing me like to one more rich in hope, /s
+s/ s/ Featured like him, like him with friends possessed, /s
+s/ s/ Desiring this man's art, and that man's scope, /s
+s/ s/ With what I most enjoy contented least; /s
+s/ s/ Yet in these thoughts my self almost despising, /s
+s/ s/ Haply I think on thee, and then my state, /s
+s/ s/ Like to the lark at break of day arising /s
+s/ s/ From sullen earth, sings hymns at heaven's gate; /s
+s/ s/ For thy sweet love remembered such wealth brings /s
+s/ s/ That then I scorn to change my state with kings. /s
+s/ s/ When to the sessions of sweet silent thought /s
+s/ s/ I summon up remembrance of things past, /s
+s/ s/ I sigh the lack of many a thing I sought, /s
+s/ s/ And with old woes new wail my dear time's waste: /s
+s/ s/ Then can I drown an eye, unused to flow, /s
+s/ s/ For precious friends hid in death's dateless night, /s
+s/ s/ And weep afresh love's long since cancelled woe, /s
+s/ s/ And moan the expense of many a vanished sight: /s
+s/ s/ Then can I grieve at grievances foregone, /s
+s/ s/ And heavily from woe to woe tell o'er /s
+s/ s/ The sad account of fore-bemoaned moan, /s
+s/ s/ Which I new pay as if not paid before. /s
+s/ s/ But if the while I think on thee, dear friend, /s
+s/ s/ All losses are restor'd and sorrows end. /s
+s/ s/ Thy bosom is endeared with all hearts, /s
+s/ s/ Which I by lacking have supposed dead; /s
+s/ s/ And there reigns Love, and all Love's loving parts, /s
+s/ s/ And all those friends which I thought buried. /s
+s/ s/ How many a holy and obsequious tear /s
+s/ s/ Hath dear religious love stol'n from mine eye, /s
+s/ s/ As interest of the dead, which now appear /s
+s/ s/ But things removed that hidden in thee lie! /s
+s/ s/ Thou art the grave where buried love doth live, /s
+s/ s/ Hung with the trophies of my lovers gone, /s
+s/ s/ Who all their parts of me to thee did give, /s
+s/ s/ That due of many now is thine alone: /s
+s/ s/ Their images I loved, I view in thee, /s
+s/ s/ And thou (all they) hast all the all of me. /s
+s/ s/ If thou survive my well-contented day, /s
+s/ s/ When that churl Death my bones with dust shall cover /s
+s/ s/ And shalt by fortune once more re-survey /s
+s/ s/ These poor rude lines of thy deceased lover, /s
+s/ s/ Compare them with the bett'ring of the time, /s
+s/ s/ And though they be outstripped by every pen, /s
+s/ s/ Reserve them for my love, not for their rhyme, /s
+s/ s/ Exceeded by the height of happier men. /s
+s/ s/ O! then vouchsafe me but this loving thought: /s
+s/ s/ A dearer birth than this his love had brought, /s
+s/ s/ To march in ranks of better equipage: /s
+s/ s/ But since he died and poets better prove, /s
+s/ s/ Theirs for their style I'll read, his for his love'. /s
+s/ s/ Full many a glorious morning have I seen /s
+s/ s/ Flatter the mountain tops with sovereign eye, /s
+s/ s/ Kissing with golden face the meadows green, /s
+s/ s/ Gilding pale streams with heavenly alchemy; /s
+s/ s/ Anon permit the basest clouds to ride /s
+s/ s/ With ugly rack on his celestial face, /s
+s/ s/ And from the forlorn world his visage hide, /s
+s/ s/ Stealing unseen to west with this disgrace: /s
+s/ s/ Even so my sun one early morn did shine, /s
+s/ s/ With all triumphant splendour on my brow; /s
+s/ s/ But out, alack, he was but one hour mine, /s
+s/ s/ The region cloud hath mask'd him from me now. /s
+s/ s/ Yet him for this my love no whit disdaineth; /s
+s/ s/ Suns of the world may stain when heaven's sun staineth. /s
+s/ s/ Why didst thou promise such a beauteous day, /s
+s/ s/ And make me travel forth without my cloak, /s
+s/ s/ To let base clouds o'ertake me in my way, /s
+s/ s/ Hiding thy bravery in their rotten smoke? /s
+s/ s/ To dry the rain on my storm-beaten face, /s
+s/ s/ For no man well of such a salve can speak, /s
+s/ s/ That heals the wound, and cures not the disgrace: /s
+s/ s/ Nor can thy shame give physic to my grief; /s
+s/ s/ Though thou repent, yet I have still the loss: /s
+s/ s/ The offender's sorrow lends but weak relief /s
+s/ s/ To him that bears the strong offence's cross. /s
+s/ s/ Ah! but those tears are pearl which thy love sheds, /s
+s/ s/ And they are rich and ransom all ill deeds. /s
+s/ s/ No more be grieved atthat which thou hast done: /s
+s/ s/ Roses have thorns, and silver fountains mud: /s
+s/ s/ Clouds and eclipses stain both moon and sun, /s
+s/ s/ And loathsome canker lives in sweetest bud. /s
+s/ s/ All men make faults, and even I in this, /s
+s/ s/ Authorizing thy trespass with compare, /s
+s/ s/ Myself corrupting, salving thy amiss, /s
+s/ s/ Excusing thy sins more than thy sins are; /s
+s/ s/ For to thy sensual fault I bring in sense, /s
+s/ s/ Thy adverse party is thy advocate, /s
+s/ s/ And 'gainst myself a lawful plea commence: /s
+s/ s/ Such civil war is in my love and hate, /s
+s/ s/ That I an accessary needs must be, /s
+s/ s/ To that sweet thief which sourly robs from me. /s
+s/ s/ Let me confess that we two must be twain, /s
+s/ s/ Although our undivided loves are one: /s
+s/ s/ So shall those blots that do with me remain, /s
+s/ s/ Without thy help, by me be borne alone. /s
+s/ s/ In our two loves there is but one respect, /s
+s/ s/ Though in our lives a separable spite, /s
+s/ s/ Which though it alter not love's sole effect, /s
+s/ s/ Yet doth it steal sweet hours from love's delight. /s
+s/ s/ I may not evermore acknowledge thee, /s
+s/ s/ Lest my bewailed guilt should do thee shame, /s
+s/ s/ Nor thou with public kindness honour me, /s
+s/ s/ Unless thou take that honour from thy name: /s
+s/ s/ But do not so, I love thee in such sort, /s
+s/ s/ As thou being mine, mine is thy good report. /s
+s/ s/ As a decrepit father takes delight /s
+s/ s/ To see his active child do deeds of youth, /s
+s/ s/ So I, made lame by Fortune's dearest spite, /s
+s/ s/ Take all my comfort of thy worth and truth; /s
+s/ s/ For whether beauty, birth, or wealth, or wit, /s
+s/ s/ Or any of these all, or all, or more, /s
+s/ s/ Entitled in thy parts, do crowned sit, /s
+s/ s/ I make my love engrafted to this store: /s
+s/ s/ So then I am not lame, poor, nor despised, /s
+s/ s/ Whilst that this shadow doth such substance give /s
+s/ s/ That I in thy abundance am sufficed, /s
+s/ s/ And by a part of all thy glory live. /s
+s/ s/ Look what is best, that best I wish in thee: /s
+s/ s/ This wish I have; then ten times happy me! /s
+s/ s/ How can my muse want subject to invent, /s
+s/ s/ While thou dost breathe, that pour'st into my verse /s
+s/ s/ Thine own sweet argument, too excellent /s
+s/ s/ For every vulgar paper to rehearse? /s
+s/ s/ O! give thy self the thanks, if aught in me /s
+s/ s/ Worthy perusal stand against thy sight; /s
+s/ s/ For who's so dumb that cannot write to thee, /s
+s/ s/ When thou thy self dost give invention light? /s
+s/ s/ Be thou the tenth Muse, ten times more in worth /s
+s/ s/ Than those old nine which rhymers invocate; /s
+s/ s/ And he that calls on thee, let him bring forth /s
+s/ s/ Eternal numbers to outlive long date. /s
+s/ s/ If my slight muse do please these curious days, /s
+s/ s/ The pain be mine, but thine shall be the praise. /s
+s/ s/ O! how thy worth with manners may I sing, /s
+s/ s/ When thou art all the better part of me? /s
+s/ s/ What can mine own praise to mine own self bring? /s
+s/ s/ And what is't but mine own when I praise thee? /s
+s/ s/ Even for this, let us divided live, /s
+s/ s/ And our dear love lose name of single one, /s
+s/ s/ That by this separation I may give /s
+s/ s/ That due to thee which thou deserv'st alone. /s
+s/ s/ O absence! what a torment wouldst thou prove, /s
+s/ s/ Were it not thy sour leisure gave sweet leave, /s
+s/ s/ To entertain the time with thoughts of love, /s
+s/ s/ Which time and thoughts so sweetly doth deceive, /s
+s/ s/ And that thou teachest how to make one twain, /s
+s/ s/ By praising him here who doth hence remain. /s
+s/ s/ Take all my loves, my love, yea take them all; /s
+s/ s/ What hast thou then more than thou hadst before? /s
+s/ s/ No love, my love, that thou mayst true love call; /s
+s/ s/ All mine was thine, before thou hadst this more. /s
+s/ s/ Then, if for my love, thou my love receivest, /s
+s/ s/ I cannot blame thee, for my love thou usest; /s
+s/ s/ But yet be blam'd, if thou thy self deceivest /s
+s/ s/ By wilful taste of what thyself refusest. /s
+s/ s/ I do forgive thy robbery, gentle thief, /s
+s/ s/ Although thou steal thee all my poverty: /s
+s/ s/ And yet, love knows it is a greater grief /s
+s/ s/ To bear love's wrong, than hate's known injury. /s
+s/ s/ Lascivious grace, in whom all ill well shows, /s
+s/ s/ Kill me with spites yet we must not be foes. /s
+s/ s/ Those pretty wrongs that liberty commits, /s
+s/ s/ When I am sometime absent from thy heart, /s
+s/ s/ Thy beauty, and thy years full well befits, /s
+s/ s/ For still temptation follows where thou art. /s
+s/ s/ Gentle thou art, and therefore to be won, /s
+s/ s/ Beauteous thou art, therefore to be assailed; /s
+s/ s/ And when a woman woos, what woman's son /s
+s/ s/ Will sourly leave her till he have prevailed? /s
+s/ s/ Ay me! but yet thou mightst my seat forbear, /s
+s/ s/ And chide thy beauty and thy straying youth, /s
+s/ s/ Who lead thee in their riot even there /s
+s/ s/ Where thou art forced to break a twofold truth: /s
+s/ s/ That thou hast her it is not all my grief, /s
+s/ s/ And yet it may be said I loved her dearly; /s
+s/ s/ That she hath thee is of my wailing chief, /s
+s/ s/ A loss in love that touches me more nearly. /s
+s/ s/ Loving offenders thus I will excuse ye: /s
+s/ s/ Thou dost love her, because thou know'st I love her; /s
+s/ s/ And for my sake even so doth she abuse me, /s
+s/ s/ Suffering my friend for my sake to approve her. /s
+s/ s/ If I lose thee, my loss is my love's gain, /s
+s/ s/ And losing her, my friend hath found that loss; /s
+s/ s/ Both find each other, and I lose both twain, /s
+s/ s/ And both for my sake lay on me this cross: /s
+s/ s/ But here's the joy; my friend and I are one; /s
+s/ s/ Sweet flattery! then she loves but me alone. /s
+s/ s/ When most I wink, then do mine eyes best see, /s
+s/ s/ For all the day they view things unrespected; /s
+s/ s/ But when I sleep, in dreams they look on thee, /s
+s/ s/ And darkly bright, are bright in dark directed. /s
+s/ s/ Then thou, whose shadow shadows doth make bright, /s
+s/ s/ How would thy shadow's form form happy show /s
+s/ s/ To the clear day with thy much clearer light, /s
+s/ s/ When to unseeing eyes thy shade shines so! /s
+s/ s/ How would, I say, mine eyes be blessed made /s
+s/ s/ By looking on thee in the living day, /s
+s/ s/ When in dead night thy fair imperfect shade /s
+s/ s/ Through heavy sleep on sightless eyes doth stay! /s
+s/ s/ All days are nights to see till I see thee, /s
+s/ s/ And nights bright days when dreams do show thee me. /s
+s/ s/ If the dull substance of my flesh were thought, /s
+s/ s/ Injurious distance should not stop my way; /s
+s/ s/ For then despite of space I would be brought, /s
+s/ s/ From limits far remote, where thou dost stay. /s
+s/ s/ No matter then although my foot did stand /s
+s/ s/ Upon the farthest earth removed from thee; /s
+s/ s/ For nimble thought can jump both sea and land /s
+s/ s/ As soon as think the place where he would be. /s
+s/ s/ But ah! thought kills me that I am not thought, /s
+s/ s/ To leap large lengths of miles when thou art gone, /s
+s/ s/ But that, so much of earth and water wrought, /s
+s/ s/ I must attend time's leisure with my moan, /s
+s/ s/ Receiving nought by elements so slow /s
+s/ s/ But heavy tears, badges of either's woe. /s
+s/ s/ The other two, slight air and purging fire, /s
+s/ s/ Are both with thee, wherever I abide; /s
+s/ s/ The first my thought, the other my desire, /s
+s/ s/ These present-absent with swift motion slide. /s
+s/ s/ For when these quicker elements are gone /s
+s/ s/ In tender embassy of love to thee, /s
+s/ s/ My life, being made of four, with two alone /s
+s/ s/ Sinks down to death, oppressed with melancholy; /s
+s/ s/ Until life's composition be recured /s
+s/ s/ By those swift messengers return'd from thee, /s
+s/ s/ Who even but now come back again, assured /s
+s/ s/ Of thy fair health, recounting it to me: /s
+s/ s/ This told, I joy; but then no longer glad, /s
+s/ s/ I send them back again and straight grow sad. /s
+s/ s/ Mine eye and heart are at a mortal war, /s
+s/ s/ How to divide the conquest of thy sight; /s
+s/ s/ Mine eye my heart thy picture's sight would bar, /s
+s/ s/ My heart mine eye the freedom of that right. /s
+s/ s/ My heart doth plead that thou in him dost lie, /s
+s/ s/ A closet never pierced with crystal eyes, /s
+s/ s/ But the defendant doth that plea deny, /s
+s/ s/ And says in him thy fair appearance lies. /s
+s/ s/ To 'cide this title is impannelled /s
+s/ s/ A quest of thoughts, all tenants to the heart; /s
+s/ s/ And by their verdict is determined /s
+s/ s/ The clear eye's moiety, and the dear heart's part: /s
+s/ s/ Betwixt mine eye and heart a league is took, /s
+s/ s/ And each doth good turns now unto the other: /s
+s/ s/ When that mine eye is famish'd for a look, /s
+s/ s/ Or heart in love with sighs himself doth smother, /s
+s/ s/ With my love's picture then my eye doth feast, /s
+s/ s/ And to the painted banquet bids my heart; /s
+s/ s/ Another time mine eye is my heart's guest, /s
+s/ s/ And in his thoughts of love doth share a part: /s
+s/ s/ So, either by thy picture or my love, /s
+s/ s/ Thy self away, art present still with me; /s
+s/ s/ For thou not farther than my thoughts canst move, /s
+s/ s/ And I am still with them, and they with thee; /s
+s/ s/ Or, if they sleep, thy picture in my sight /s
+s/ s/ Awakes my heart, to heart's and eyes' delight. /s
+s/ s/ How careful was I when I took my way, /s
+s/ s/ Each trifle under truest bars to thrust, /s
+s/ s/ That to my use it might unused stay /s
+s/ s/ From hands of falsehood, in sure wards of trust! /s
+s/ s/ But thou, to whom my jewels trifles are, /s
+s/ s/ Most worthy comfort, now my greatest grief, /s
+s/ s/ Thou best of dearest, and mine only care, /s
+s/ s/ Art left the prey of every vulgar thief. /s
+s/ s/ Thee have I not locked up in any chest, /s
+s/ s/ Save where thou art not, though I feel thou art, /s
+s/ s/ Within the gentle closure of my breast, /s
+s/ s/ From whence at pleasure thou mayst come and part; /s
+s/ s/ Against that time, if ever that time come, /s
+s/ s/ When I shall see thee frown on my defects, /s
+s/ s/ When as thy love hath cast his utmost sum, /s
+s/ s/ Called to that audit by advis'd respects; /s
+s/ s/ Against that time when thou shalt strangely pass, /s
+s/ s/ And scarcely greet me with that sun, thine eye, /s
+s/ s/ When love, converted from the thing it was, /s
+s/ s/ Shall reasons find of settled gravity; /s
+s/ s/ Against that time do I ensconce me here, /s
+s/ s/ Within the knowledge of mine own desert, /s
+s/ s/ And this my hand, against my self uprear, /s
+s/ s/ To guard the lawful reasons on thy part: /s
+s/ s/ To leave poor me thou hast the strength of laws, /s
+s/ s/ Since why to love I can allege no cause. /s
+s/ s/ How heavy do I journey on the way, /s
+s/ s/ When what I seek, my weary travel's end, /s
+s/ s/ Doth teach that ease and that repose to say, /s
+s/ s/ The beast that bears me, tired with my woe, /s
+s/ s/ Plods dully on, to bear that weight in me, /s
+s/ s/ As if by some instinct the wretch did know /s
+s/ s/ His rider lov'd not speed being made from thee. /s
+s/ s/ The bloody spur cannot provoke him on, /s
+s/ s/ That sometimes anger thrusts into his hide, /s
+s/ s/ Which heavily he answers with a groan, /s
+s/ s/ More sharp to me than spurring to his side; /s
+s/ s/ For that same groan doth put this in my mind, /s
+s/ s/ My grief lies onward, and my joy behind. /s
+s/ s/ Thus can my love excuse the slow offence /s
+s/ s/ Of my dull bearer when from thee I speed: /s
+s/ s/ From where thou art why should I haste me thence? /s
+s/ s/ Till I return, of posting is no need. /s
+s/ s/ O! what excuse will my poor beast then find, /s
+s/ s/ When swift extremity can seem but slow? /s
+s/ s/ Then should I spur, though mounted on the wind, /s
+s/ s/ In winged speed no motion shall I know, /s
+s/ s/ Then can no horse with my desire keep pace. /s
+s/ s/ Therefore desire, (of perfect'st love being made) /s
+s/ s/ Shall neigh, no dull flesh, in his fiery race; /s
+s/ s/ But love, for love, thus shall excuse my jade- /s
+s/ s/ Since from thee going, he went wilful-slow, /s
+s/ s/ Towards thee I'll run, and give him leave to go. /s
+s/ s/ So am I as the rich, whose blessed key, /s
+s/ s/ Can bring him to his sweet up-locked treasure, /s
+s/ s/ The which he will not every hour survey, /s
+s/ s/ For blunting the fine point of seldom pleasure. /s
+s/ s/ Therefore are feasts so solemn and so rare, /s
+s/ s/ Since, seldom coming in the long year set, /s
+s/ s/ Like stones of worth they thinly placed are, /s
+s/ s/ Or captain jewels in the carcanet. /s
+s/ s/ So is the time that keeps you as my chest, /s
+s/ s/ Or as the wardrobe which the robe doth hide, /s
+s/ s/ To make some special instant special-blest, /s
+s/ s/ By new unfolding his imprisoned pride. /s
+s/ s/ Blessed are you whose worthiness gives scope, /s
+s/ s/ Being had, to triumph, being lacked, to hope. /s
+s/ s/ What is your substance, whereof are you made, /s
+s/ s/ That millions of strange shadows on you tend? /s
+s/ s/ Since every one hath, every one, one shade, /s
+s/ s/ And you but one, can every shadow lend. /s
+s/ s/ Describe Adonis, and the counterfeit /s
+s/ s/ Is poorly imitated after you; /s
+s/ s/ On Helen's cheek all art of beauty set, /s
+s/ s/ And you in Grecian tires are painted new: /s
+s/ s/ Speak of the spring, and foison of the year, /s
+s/ s/ The one doth shadow of your beauty show, /s
+s/ s/ The other as your bounty doth appear; /s
+s/ s/ And you in every blessed shape we know. /s
+s/ s/ In all external grace you have some part, /s
+s/ s/ But you like none, none you, for constant heart. /s
+s/ s/ O! how much more doth beauty beauteous seem /s
+s/ s/ By that sweet ornament which truth doth give. /s
+s/ s/ The rose looks fair, but fairer we it deem /s
+s/ s/ For that sweet odour, which doth in it live. /s
+s/ s/ The canker blooms have full as deep a dye /s
+s/ s/ As the perfumed tincture of the roses, /s
+s/ s/ Hang on such thorns, and play as wantonly /s
+s/ s/ When summer's breath their masked buds discloses: /s
+s/ s/ But, for their virtue only is their show, /s
+s/ s/ They live unwoo'd, and unrespected fade; /s
+s/ s/ Die to themselves. Sweet roses do not so; /s
+s/ s/ Of their sweet deaths are sweetest odours made: /s
+s/ s/ And so of you, beauteous and lovely youth, /s
+s/ s/ When that shall vade, my verse distills your truth. /s
+s/ s/ Not marble, nor the gilded monuments /s
+s/ s/ Of princes, shall outlive this powerful rhyme; /s
+s/ s/ But you shall shine more bright in these contents /s
+s/ s/ Than unswept stone, besmear'd with sluttish time. /s
+s/ s/ When wasteful war shall statues overturn, /s
+s/ s/ And broils root out the work of masonry, /s
+s/ s/ Nor Mars his sword, nor war's quick fire shall burn /s
+s/ s/ The living record of your memory. /s
+s/ s/ Shall you pace forth; your praise shall still find room /s
+s/ s/ Even in the eyes of all posterity /s
+s/ s/ That wear this world out to the ending doom. /s
+s/ s/ So, till the judgment that yourself arise, /s
+s/ s/ You live in this, and dwell in lovers' eyes. /s
+s/ s/ Sweet love, renew thy force; be it not said /s
+s/ s/ Thy edge should blunter be than appetite, /s
+s/ s/ Which but to-day by feeding is allayed, /s
+s/ s/ To-morrow sharpened in his former might: /s
+s/ s/ So, love, be thou, although to-day thou fill /s
+s/ s/ Thy hungry eyes, even till they wink with fulness, /s
+s/ s/ To-morrow see again, and do not kill /s
+s/ s/ The spirit of love, with a perpetual dulness. /s
+s/ s/ Let this sad interim like the ocean be /s
+s/ s/ Which parts the shore, where two contracted new /s
+s/ s/ Come daily to the banks, that when they see /s
+s/ s/ Return of love, more blest may be the view; /s
+s/ s/ As call it winter, which being full of care, /s
+s/ s/ Makes summer's welcome, thrice more wished, more rare. /s
+s/ s/ Being your slave what should I do but tend /s
+s/ s/ Upon the hours, and times of your desire? /s
+s/ s/ I have no precious time at all to spend; /s
+s/ s/ Nor services to do, till you require. /s
+s/ s/ Nor dare I chide the world without end hour, /s
+s/ s/ Whilst I, my sovereign, watch the clock for you, /s
+s/ s/ Nor think the bitterness of absence sour, /s
+s/ s/ When you have bid your servant once adieu; /s
+s/ s/ Nor dare I question with my jealous thought /s
+s/ s/ Where you may be, or your affairs suppose, /s
+s/ s/ But, like a sad slave, stay and think of nought /s
+s/ s/ Save, where you are, how happy you make those. /s
+s/ s/ So true a fool is love, that in your will, /s
+s/ s/ Though you do anything, he thinks no ill. /s
+s/ s/ That god forbid, that made me first your slave, /s
+s/ s/ I should in thought control your times of pleasure, /s
+s/ s/ Or at your hand the account of hours to crave, /s
+s/ s/ Being your vassal, bound to stay your leisure! /s
+s/ s/ O! let me suffer, being at your beck, /s
+s/ s/ The imprison'd absence of your liberty; /s
+s/ s/ And patience, tame to sufferance, bide each check, /s
+s/ s/ Without accusing you of injury. /s
+s/ s/ Be where you list, your charter is so strong /s
+s/ s/ That you yourself may privilege your time /s
+s/ s/ To what you will; to you it doth belong /s
+s/ s/ Yourself to pardon of self-doing crime. /s
+s/ s/ I am to wait, though waiting so be hell, /s
+s/ s/ Not blame your pleasure be it ill or well. /s
+s/ s/ If there be nothing new, but that which is /s
+s/ s/ Hath been before, how are our brains beguil'd, /s
+s/ s/ Which labouring for invention bear amiss /s
+s/ s/ The second burthen of a former child. /s
+s/ s/ Oh that record could with a backward look, /s
+s/ s/ Even of five hundred courses of the sun, /s
+s/ s/ Show me your image in some antique book, /s
+s/ s/ Since mind at first in character was done, /s
+s/ s/ That I might see what the old world could say /s
+s/ s/ To this composed wonder of your frame; /s
+s/ s/ Whether we are mended, or where better they, /s
+s/ s/ Or whether revolution be the same. /s
+s/ s/ Oh sure I am the wits of former days, /s
+s/ s/ To subjects worse have given admiring praise. /s
+s/ s/ Like as the waves make towards the pebbled shore, /s
+s/ s/ So do our minutes hasten to their end; /s
+s/ s/ Each changing place with that which goes before, /s
+s/ s/ In sequent toil all forwards do contend. /s
+s/ s/ Nativity, once in the main of light, /s
+s/ s/ Crawls to maturity, wherewith being crown'd, /s
+s/ s/ Crooked eclipses 'gainst his glory fight, /s
+s/ s/ And Time that gave doth now his gift confound. /s
+s/ s/ Time doth transfix the flourish set on youth /s
+s/ s/ And delves the parallels in beauty's brow, /s
+s/ s/ Feeds on the rarities of nature's truth, /s
+s/ s/ And nothing stands but for his scythe to mow: /s
+s/ s/ And yet to times in hope, my verse shall stand /s
+s/ s/ Praising thy worth, despite his cruel hand. /s
+s/ s/ Is it thy will, thy image should keep open /s
+s/ s/ My heavy eyelids to the weary night? /s
+s/ s/ Dost thou desire my slumbers should be broken, /s
+s/ s/ While shadows like to thee do mock my sight? /s
+s/ s/ Is it thy spirit that thou send'st from thee /s
+s/ s/ So far from home into my deeds to pry, /s
+s/ s/ To find out shames and idle hours in me, /s
+s/ s/ The scope and tenor of thy jealousy? /s
+s/ s/ O, no! thy love, though much, is not so great: /s
+s/ s/ It is my love that keeps mine eye awake: /s
+s/ s/ Mine own true love that doth my rest defeat, /s
+s/ s/ To play the watchman ever for thy sake: /s
+s/ s/ For thee watch I, whilst thou dost wake elsewhere, /s
+s/ s/ From me far off, with others all too near. /s
+s/ s/ Sin of self-love possesseth all mine eye /s
+s/ s/ And all my soul, and all my every part; /s
+s/ s/ And for this sin there is no remedy, /s
+s/ s/ It is so grounded inward in my heart. /s
+s/ s/ Methinks no face so gracious is as mine, /s
+s/ s/ No shape so true, no truth of such account; /s
+s/ s/ And for myself mine own worth do define, /s
+s/ s/ As I all other in all worths surmount. /s
+s/ s/ But when my glass shows me myself indeed /s
+s/ s/ Beated and chopp'd with tanned antiquity, /s
+s/ s/ Mine own self-love quite contrary I read; /s
+s/ s/ Self so self-loving were iniquity. /s
+s/ s/ Painting my age with beauty of thy days. /s
+s/ s/ Against my love shall be as I am now, /s
+s/ s/ With Time's injurious hand crushed and o'erworn; /s
+s/ s/ When hours have drained his blood and filled his brow /s
+s/ s/ With lines and wrinkles; when his youthful morn /s
+s/ s/ Hath travelled on to age's steepy night; /s
+s/ s/ And all those beauties whereof now he's king /s
+s/ s/ Are vanishing, or vanished out of sight, /s
+s/ s/ Stealing away the treasure of his spring; /s
+s/ s/ For such a time do I now fortify /s
+s/ s/ Against confounding age's cruel knife, /s
+s/ s/ That he shall never cut from memory /s
+s/ s/ My sweet love's beauty, though my lover's life: /s
+s/ s/ His beauty shall in these black lines be seen, /s
+s/ s/ And they shall live, and he in them still green. /s
+s/ s/ When I have seen by Time's fell hand defaced /s
+s/ s/ The rich proud cost of outworn buried age; /s
+s/ s/ When sometime lofty towers I see down-razed, /s
+s/ s/ And brass eternal slave to mortal rage; /s
+s/ s/ When I have seen the hungry ocean gain /s
+s/ s/ Advantage on the kingdom of the shore, /s
+s/ s/ And the firm soil win of the watery main, /s
+s/ s/ Increasing store with loss, and loss with store; /s
+s/ s/ When I have seen such interchange of state, /s
+s/ s/ Or state itself confounded to decay; /s
+s/ s/ Ruin hath taught me thus to ruminate /s
+s/ s/ That Time will come and take my love away. /s
+s/ s/ This thought is as a death which cannot choose /s
+s/ s/ But weep to have that which it fears to lose. /s
+s/ s/ Since brass, nor stone, nor earth, nor boundless sea, /s
+s/ s/ But sad mortality o'ersways their power, /s
+s/ s/ How with this rage shall beauty hold a plea, /s
+s/ s/ Whose action is no stronger than a flower? /s
+s/ s/ O! how shall summer's honey breath hold out, /s
+s/ s/ Against the wrackful siege of battering days, /s
+s/ s/ When rocks impregnable are not so stout, /s
+s/ s/ Nor gates of steel so strong but Time decays? /s
+s/ s/ O fearful meditation! where, alack, /s
+s/ s/ Shall Time's best jewel from Time's chest lie hid? /s
+s/ s/ Or what strong hand can hold his swift foot back? /s
+s/ s/ Or who his spoil of beauty can forbid? /s
+s/ s/ O! none, unless this miracle have might, /s
+s/ s/ That in black ink my love may still shine bright. /s
+s/ s/ Tired with all these, for restful death I cry, /s
+s/ s/ As to behold desert a beggar born, /s
+s/ s/ And needy nothing trimm'd in jollity, /s
+s/ s/ And purest faith unhappily forsworn, /s
+s/ s/ And gilded honour shamefully misplaced, /s
+s/ s/ And maiden virtue rudely strumpeted, /s
+s/ s/ And right perfection wrongfully disgraced, /s
+s/ s/ And strength by limping sway disabled /s
+s/ s/ And art made tongue-tied by authority, /s
+s/ s/ And folly, doctor-like, controlling skill, /s
+s/ s/ And simple truth miscalled simplicity, /s
+s/ s/ And captive good attending captain ill: /s
+s/ s/ Tired with all these, from these would I be gone, /s
+s/ s/ Save that, to die, I leave my love alone. /s
+s/ s/ Ah! wherefore with infection should he live, /s
+s/ s/ And with his presence grace impiety, /s
+s/ s/ That sin by him advantage should achieve, /s
+s/ s/ And lace itself with his society? /s
+s/ s/ Why should false painting imitate his cheek, /s
+s/ s/ And steal dead seeming of his living hue? /s
+s/ s/ Why should poor beauty indirectly seek /s
+s/ s/ Roses of shadow, since his rose is true? /s
+s/ s/ Why should he live, now Nature bankrupt is, /s
+s/ s/ Beggared of blood to blush through lively veins? /s
+s/ s/ For she hath no exchequer now but his, /s
+s/ s/ And proud of many, lives upon his gains. /s
+s/ s/ O! him she stores, to show what wealth she had /s
+s/ s/ In days long since, before these last so bad. /s
+s/ s/ Thus is his cheek the map of days outworn, /s
+s/ s/ When beauty lived and died as flowers do now, /s
+s/ s/ Before these bastard signs of fair were born, /s
+s/ s/ Or durst inhabit on a living brow; /s
+s/ s/ Before the golden tresses of the dead, /s
+s/ s/ The right of sepulchres, were shorn away, /s
+s/ s/ To live a second life on second head; /s
+s/ s/ Ere beauty's dead fleece made another gay: /s
+s/ s/ In him those holy antique hours are seen, /s
+s/ s/ Without all ornament, itself and true, /s
+s/ s/ Making no summer of another's green, /s
+s/ s/ Robbing no old to dress his beauty new; /s
+s/ s/ And him as for a map doth Nature store, /s
+s/ s/ To show false Art what beauty was of yore. /s
+s/ s/ Those parts of thee that the world's eye doth view /s
+s/ s/ Want nothing that the thought of hearts can mend; /s
+s/ s/ All tongues, the voice of souls, give thee that due, /s
+s/ s/ Uttering bare truth, even so as foes commend. /s
+s/ s/ Thy outward thus with outward praise is crown'd; /s
+s/ s/ But those same tongues, that give thee so thine own, /s
+s/ s/ In other accents do this praise confound /s
+s/ s/ By seeing farther than the eye hath shown. /s
+s/ s/ They look into the beauty of thy mind, /s
+s/ s/ And that in guess they measure by thy deeds; /s
+s/ s/ Then, churls, their thoughts, although their eyes were kind, /s
+s/ s/ To thy fair flower add the rank smell of weeds: /s
+s/ s/ But why thy odour matcheth not thy show, /s
+s/ s/ The soil is this, that thou dost common grow. /s
+s/ s/ That thou art blamed shall not be thy defect, /s
+s/ s/ For slander's mark was ever yet the fair; /s
+s/ s/ The ornament of beauty is suspect, /s
+s/ s/ A crow that flies in heaven's sweetest air. /s
+s/ s/ So thou be good, slander doth but approve /s
+s/ s/ Thy worth the greater, being wooed of time; /s
+s/ s/ For canker vice the sweetest buds doth love, /s
+s/ s/ And thou present'st a pure unstained prime. /s
+s/ s/ Thou hast passed by the ambush of young days /s
+s/ s/ Either not assailed, or victor being charged; /s
+s/ s/ Yet this thy praise cannot be so thy praise, /s
+s/ s/ To tie up envy, evermore enlarged, /s
+s/ s/ If some suspect of ill masked not thy show, /s
+s/ s/ Then thou alone kingdoms of hearts shouldst owe. /s
+s/ s/ No longer mourn for me when I am dead /s
+s/ s/ Than you shall hear the surly sullen bell /s
+s/ s/ Give warning to the world that I am fled /s
+s/ s/ From this vile world with vilest worms to dwell: /s
+s/ s/ Nay, if you read this line, remember not /s
+s/ s/ The hand that writ it, for I love you so, /s
+s/ s/ That I in your sweet thoughts would be forgot, /s
+s/ s/ If thinking on me then should make you woe. /s
+s/ s/ O! if, I say, you look upon this verse, /s
+s/ s/ When I perhaps compounded am with clay, /s
+s/ s/ Do not so much as my poor name rehearse; /s
+s/ s/ But let your love even with my life decay; /s
+s/ s/ Lest the wise world should look into your moan, /s
+s/ s/ And mock you with me after I am gone. /s
+s/ s/ O! lest the world should task you to recite /s
+s/ s/ What merit lived in me, that you should love /s
+s/ s/ After my death ,--dear love, forget me quite, /s
+s/ s/ For you in me can nothing worthy prove. /s
+s/ s/ Unless you would devise some virtuous lie, /s
+s/ s/ To do more for me than mine own desert, /s
+s/ s/ And hang more praise upon deceased I /s
+s/ s/ Than niggard truth would willingly impart: /s
+s/ s/ O! lest your true love may seem false in this /s
+s/ s/ That you for love speak well of me untrue, /s
+s/ s/ My name be buried where my body is, /s
+s/ s/ And live no more to shame nor me nor you. /s
+s/ s/ For I am shamed by that which I bring forth, /s
+s/ s/ And so should you, to love things nothing worth. /s
+s/ s/ That time of year thou mayst in me behold /s
+s/ s/ When yellow leaves, or none, or few, do hang /s
+s/ s/ Upon those boughs which shake against the cold, /s
+s/ s/ Bare ruined choirs, where late the sweet birds sang. /s
+s/ s/ In me thou see'st the twilight of such day /s
+s/ s/ As after sunset fadeth in the west; /s
+s/ s/ Which by and by black night doth take away, /s
+s/ s/ Death's second self, that seals up all in rest. /s
+s/ s/ In me thou see'st the glowing of such fire, /s
+s/ s/ That on the ashes of his youth doth lie, /s
+s/ s/ As the death-bed, whereon it must expire, /s
+s/ s/ Consumed with that which it was nourish'd by. /s
+s/ s/ This thou perceiv'st, which makes thy love more strong, /s
+s/ s/ To love that well, which thou must leave ere long. /s
+s/ s/ But be contented when that fell arrest /s
+s/ s/ Without all bail shall carry me away, /s
+s/ s/ My life hath in this line some interest, /s
+s/ s/ Which for memorial still with thee shall stay. /s
+s/ s/ When thou reviewest this, thou dost review /s
+s/ s/ The very part was consecrate to thee: /s
+s/ s/ The earth can have but earth, which is his due; /s
+s/ s/ My spirit is thine, the better part of me: /s
+s/ s/ So then thou hast but lost the dregs of life, /s
+s/ s/ The prey of worms, my body being dead; /s
+s/ s/ The coward conquest of a wretch's knife, /s
+s/ s/ Too base of thee to be remembered. /s
+s/ s/ The worth of that is that which it contains, /s
+s/ s/ And that is this, and this with thee remains. /s
+s/ s/ So are you to my thoughts as food to life, /s
+s/ s/ Or as sweet-season'd showers are to the ground; /s
+s/ s/ And for the peace of you I hold such strife /s
+s/ s/ As 'twixt a miser and his wealth is found. /s
+s/ s/ Now proud as an enjoyer, and anon /s
+s/ s/ Doubting the filching age will steal his treasure; /s
+s/ s/ Now counting best to be with you alone, /s
+s/ s/ Then better'd that the world may see my pleasure: /s
+s/ s/ Sometime all full with feasting on your sight, /s
+s/ s/ And by and by clean starved for a look; /s
+s/ s/ Possessing or pursuing no delight /s
+s/ s/ Save what is had, or must from you be took. /s
+s/ s/ Thus do I pine and surfeit day by day, /s
+s/ s/ Or gluttoning on all, or all away. /s
+s/ s/ Why is my verse so barren of new pride, /s
+s/ s/ So far from variation or quick change? /s
+s/ s/ Why with the time do I not glance aside /s
+s/ s/ To new-found methods, and to compounds strange? /s
+s/ s/ Why write I still all one, ever the same, /s
+s/ s/ And keep invention in a noted weed, /s
+s/ s/ That every word doth almost tell my name, /s
+s/ s/ Showing their birth, and where they did proceed? /s
+s/ s/ O! know sweet love I always write of you, /s
+s/ s/ And you and love are still my argument; /s
+s/ s/ So all my best is dressing old words new, /s
+s/ s/ Spending again what is already spent: /s
+s/ s/ For as the sun is daily new and old, /s
+s/ s/ So is my love still telling what is told. /s
+s/ s/ Thy glass will show thee how thy beauties wear, /s
+s/ s/ Thy dial how thy precious minutes waste; /s
+s/ s/ The vacant leaves thy mind's imprint will bear, /s
+s/ s/ And of this book, this learning mayst thou taste. /s
+s/ s/ The wrinkles which thy glass will truly show /s
+s/ s/ Of mouthed graves will give thee memory; /s
+s/ s/ Thou by thy dial's shady stealth mayst know /s
+s/ s/ Time's thievish progress to eternity. /s
+s/ s/ Look what thy memory cannot contain, /s
+s/ s/ Commit to these waste blanks, and thou shalt find /s
+s/ s/ Those children nursed, delivered from thy brain, /s
+s/ s/ To take a new acquaintance of thy mind. /s
+s/ s/ These offices, so oft as thou wilt look, /s
+s/ s/ Shall profit thee and much enrich thy book. /s
+s/ s/ So oft have I invoked thee for my Muse, /s
+s/ s/ And found such fair assistance in my verse /s
+s/ s/ As every alien pen hath got my use /s
+s/ s/ And under thee their poesy disperse. /s
+s/ s/ Thine eyes, that taught the dumb on high to sing /s
+s/ s/ And heavy ignorance aloft to fly, /s
+s/ s/ Have added feathers to the learned's wing /s
+s/ s/ And given grace a double majesty. /s
+s/ s/ Yet be most proud of that which I compile, /s
+s/ s/ Whose influence is thine, and born of thee: /s
+s/ s/ In others' works thou dost but mend the style, /s
+s/ s/ And arts with thy sweet graces graced be; /s
+s/ s/ But thou art all my art, and dost advance /s
+s/ s/ As high as learning, my rude ignorance. /s
+s/ s/ Whilst I alone did call upon thy aid, /s
+s/ s/ My verse alone had all thy gentle grace; /s
+s/ s/ But now my gracious numbers are decayed, /s
+s/ s/ And my sick Muse doth give an other place. /s
+s/ s/ I grant, sweet love, thy lovely argument /s
+s/ s/ Deserves the travail of a worthier pen; /s
+s/ s/ Yet what of thee thy poet doth invent /s
+s/ s/ He robs thee of, and pays it thee again. /s
+s/ s/ He lends thee virtue, and he stole that word /s
+s/ s/ From thy behaviour; beauty doth he give, /s
+s/ s/ And found it in thy cheek: he can afford /s
+s/ s/ No praise to thee, but what in thee doth live. /s
+s/ s/ Then thank him not for that which he doth say, /s
+s/ s/ Since what he owes thee, thou thyself dost pay. /s
+s/ s/ O! how I faint when I of you do write, /s
+s/ s/ Knowing a better spirit doth use your name, /s
+s/ s/ And in the praise thereof spends all his might, /s
+s/ s/ To make me tongue-tied speaking of your fame. /s
+s/ s/ But since your worth, wide as the ocean is, /s
+s/ s/ The humble as the proudest sail doth bear, /s
+s/ s/ My saucy bark, inferior far to his, /s
+s/ s/ On your broad main doth wilfully appear. /s
+s/ s/ Your shallowest help will hold me up afloat, /s
+s/ s/ Whilst he upon your soundless deep doth ride; /s
+s/ s/ Or, being wracked, I am a worthless boat, /s
+s/ s/ He of tall building, and of goodly pride: /s
+s/ s/ Then if he thrive and I be cast away, /s
+s/ s/ The worst was this, my love was my decay. /s
+s/ s/ Or I shall live your epitaph to make, /s
+s/ s/ Or you survive when I in earth am rotten, /s
+s/ s/ From hence your memory death cannot take, /s
+s/ s/ Although in me each part will be forgotten. /s
+s/ s/ Your name from hence immortal life shall have, /s
+s/ s/ Though I, once gone, to all the world must die: /s
+s/ s/ The earth can yield me but a common grave, /s
+s/ s/ When you entombed in men's eyes shall lie. /s
+s/ s/ Your monument shall be my gentle verse, /s
+s/ s/ Which eyes not yet created shall o'er-read; /s
+s/ s/ And tongues to be your being shall rehearse, /s
+s/ s/ When all the breathers of this world are dead; /s
+s/ s/ You still shall live, such virtue hath my pen, /s
+s/ s/ Where breath most breathes, even in the mouths of men. /s
+s/ s/ I grant thou wert not married to my Muse, /s
+s/ s/ And therefore mayst without attaint o'erlook /s
+s/ s/ The dedicated words which writers use /s
+s/ s/ Of their fair subject, blessing every book. /s
+s/ s/ Thou art as fair in knowledge as in hue, /s
+s/ s/ Finding thy worth a limit past my praise; /s
+s/ s/ And therefore art enforced to seek anew /s
+s/ s/ Some fresher stamp of the time-bettering days. /s
+s/ s/ And do so, love; yet when they have devised, /s
+s/ s/ What strained touches rhetoric can lend, /s
+s/ s/ Thou truly fair, wert truly sympathized /s
+s/ s/ In true plain words, by thy true-telling friend; /s
+s/ s/ And their gross painting might be better used /s
+s/ s/ Where cheeks need blood; in thee it is abused. /s
+s/ s/ I never saw that you did painting need, /s
+s/ s/ And therefore to your fair no painting set; /s
+s/ s/ I found, or thought I found, you did exceed /s
+s/ s/ The barren tender of a poet's debt: /s
+s/ s/ And therefore have I slept in your report, /s
+s/ s/ That you yourself, being extant, well might show /s
+s/ s/ How far a modern quill doth come too short, /s
+s/ s/ Speaking of worth, what worth in you doth grow. /s
+s/ s/ This silence for my sin you did impute, /s
+s/ s/ Which shall be most my glory being dumb; /s
+s/ s/ For I impair not beauty being mute, /s
+s/ s/ When others would give life, and bring a tomb. /s
+s/ s/ There lives more life in one of your fair eyes /s
+s/ s/ Than both your poets can in praise devise. /s
+s/ s/ Who is it that says most, which can say more, /s
+s/ s/ Than this rich praise, that you alone, are you, /s
+s/ s/ In whose confine immured is the store /s
+s/ s/ Which should example where your equal grew? /s
+s/ s/ Lean penury within that pen doth dwell /s
+s/ s/ That to his subject lends not some small glory; /s
+s/ s/ But he that writes of you, if he can tell /s
+s/ s/ That you are you, so dignifies his story. /s
+s/ s/ Let him but copy what in you is writ, /s
+s/ s/ Not making worse what nature made so clear, /s
+s/ s/ And such a counterpart shall fame his wit, /s
+s/ s/ Making his style admired every where. /s
+s/ s/ You to your beauteous blessings add a curse, /s
+s/ s/ Being fond on praise, which makes your praises worse. /s
+s/ s/ My tongue-tied Muse in manners holds her still, /s
+s/ s/ While comments of your praise richly compiled, /s
+s/ s/ Reserve thy character with golden quill, /s
+s/ s/ And precious phrase by all the Muses filed. /s
+s/ s/ I think good thoughts, whilst others write good words, /s
+s/ s/ And like unlettered clerk still cry 'Amen' /s
+s/ s/ To every hymn that able spirit affords, /s
+s/ s/ In polished form of well-refined pen. /s
+s/ s/ Hearing you praised, I say ''tis so, 'tis true ,' /s
+s/ s/ And to the most of praise add something more; /s
+s/ s/ But that is in my thought, whose love to you, /s
+s/ s/ Though words come hindmost, holds his rank before. /s
+s/ s/ Then others, for the breath of words respect, /s
+s/ s/ Me for my dumb thoughts, speaking in effect. /s
+s/ s/ Was it the proud full sail of his great verse, /s
+s/ s/ Bound for the prize of all too precious you, /s
+s/ s/ That did my ripe thoughts in my brain inhearse, /s
+s/ s/ Making their tomb the womb wherein they grew? /s
+s/ s/ Was it his spirit, by spirits taught to write /s
+s/ s/ Above a mortal pitch, that struck me dead? /s
+s/ s/ No, neither he, nor his compeers by night /s
+s/ s/ Giving him aid, my verse astonished. /s
+s/ s/ He, nor that affable familiar ghost /s
+s/ s/ Which nightly gulls him with intelligence, /s
+s/ s/ As victors of my silence cannot boast; /s
+s/ s/ I was not sick of any fear from thence: /s
+s/ s/ But when your countenance filled up his line, /s
+s/ s/ Then lacked I matter; that enfeebled mine. /s
+s/ s/ Farewell! thou art too dear for my possessing, /s
+s/ s/ And like enough thou know'st thy estimate, /s
+s/ s/ The charter of thy worth gives thee releasing; /s
+s/ s/ My bonds in thee are all determinate. /s
+s/ s/ For how do I hold thee but by thy granting? /s
+s/ s/ And for that riches where is my deserving? /s
+s/ s/ The cause of this fair gift in me is wanting, /s
+s/ s/ And so my patent back again is swerving. /s
+s/ s/ Thy self thou gavest, thy own worth then not knowing, /s
+s/ s/ Or me to whom thou gav'st it else mistaking; /s
+s/ s/ So thy great gift, upon misprision growing, /s
+s/ s/ Comes home again, on better judgement making. /s
+s/ s/ Thus have I had thee, as a dream doth flatter, /s
+s/ s/ In sleep a king, but waking no such matter. /s
+s/ s/ When thou shalt be disposed to set me light, /s
+s/ s/ And place my merit in the eye of scorn, /s
+s/ s/ Upon thy side, against myself I'll fight, /s
+s/ s/ And prove thee virtuous, though thou art forsworn. /s
+s/ s/ With mine own weakness being best acquainted, /s
+s/ s/ Upon thy part I can set down a story /s
+s/ s/ Of faults concealed, wherein I am attainted; /s
+s/ s/ That thou in losing me shalt win much glory: /s
+s/ s/ And I by this will be a gainer too; /s
+s/ s/ For bending all my loving thoughts on thee, /s
+s/ s/ The injuries that to myself I do, /s
+s/ s/ Doing thee vantage, double-vantage me. /s
+s/ s/ Such is my love, to thee I so belong, /s
+s/ s/ That for thy right, myself will bear all wrong. /s
+s/ s/ Say that thou didst forsake me for some fault, /s
+s/ s/ And I will comment upon that offence: /s
+s/ s/ Speak of my lameness, and I straight will halt, /s
+s/ s/ Against thy reasons making no defence. /s
+s/ s/ Thou canst not, love, disgrace me half so ill, /s
+s/ s/ To set a form upon desired change, /s
+s/ s/ As I'll myself disgrace; knowing thy will, /s
+s/ s/ I will acquaintance strangle, and look strange; /s
+s/ s/ Be absent from thy walks; and in my tongue /s
+s/ s/ Thy sweet beloved name no more shall dwell, /s
+s/ s/ Lest I, too much profane, should do it wrong, /s
+s/ s/ And haply of our old acquaintance tell. /s
+s/ s/ For thee, against my self I'll vow debate, /s
+s/ s/ For I must ne'er love him whom thou dost hate. /s
+s/ s/ Then hate me when thou wilt; if ever, now; /s
+s/ s/ Now, while the world is bent my deeds to cross, /s
+s/ s/ Join with the spite of fortune, make me bow, /s
+s/ s/ And do not drop in for an after-loss: /s
+s/ s/ Ah! do not, when my heart hath 'scaped this sorrow, /s
+s/ s/ Come in the rearward of a conquered woe; /s
+s/ s/ Give not a windy night a rainy morrow, /s
+s/ s/ To linger out a purposed overthrow. /s
+s/ s/ If thou wilt leave me, do not leave me last, /s
+s/ s/ When other petty griefs have done their spite, /s
+s/ s/ But in the onset come: so shall I taste /s
+s/ s/ At first the very worst of fortune's might; /s
+s/ s/ And other strains of woe, which now seem woe, /s
+s/ s/ Compared with loss of thee, will not seem so. /s
+s/ s/ Some glory in their birth, some in their skill, /s
+s/ s/ Some in their wealth, some in their body's force, /s
+s/ s/ Some in their garments though new-fangled ill; /s
+s/ s/ Some in their hawks and hounds, some in their horse; /s
+s/ s/ And every humour hath his adjunct pleasure, /s
+s/ s/ Wherein it finds a joy above the rest: /s
+s/ s/ But these particulars are not my measure, /s
+s/ s/ All these I better in one general best. /s
+s/ s/ Thy love is better than high birth to me, /s
+s/ s/ Richer than wealth, prouder than garments' cost, /s
+s/ s/ Of more delight than hawks and horses be; /s
+s/ s/ And having thee, of all men's pride I boast: /s
+s/ s/ Wretched in this alone, that thou mayst take /s
+s/ s/ All this away, and me most wretched make. /s
+s/ s/ But do thy worst to steal thyself away, /s
+s/ s/ For term of life thou art assured mine; /s
+s/ s/ And life no longer than thy love will stay, /s
+s/ s/ For it depends upon that love of thine. /s
+s/ s/ Then need I not to fear the worst of wrongs, /s
+s/ s/ When in the least of them my life hath end. /s
+s/ s/ I see a better state to me belongs /s
+s/ s/ Than that which on thy humour doth depend: /s
+s/ s/ Thou canst not vex me with inconstant mind, /s
+s/ s/ Since that my life on thy revolt doth lie. /s
+s/ s/ O what a happy title do I find, /s
+s/ s/ Happy to have thy love, happy to die! /s
+s/ s/ But what's so blessed-fair that fears no blot? /s
+s/ s/ Thou mayst be false, and yet I know it not. /s
+s/ s/ So shall I live, supposing thou art true, /s
+s/ s/ Like a deceived husband; so love's face /s
+s/ s/ May still seem love to me, though altered new; /s
+s/ s/ Thy looks with me, thy heart in other place: /s
+s/ s/ For there can live no hatred in thine eye, /s
+s/ s/ Therefore in that I cannot know thy change. /s
+s/ s/ In many's looks, the false heart's history /s
+s/ s/ Is writ in moods, and frowns, and wrinkles strange. /s
+s/ s/ But heaven in thy creation did decree /s
+s/ s/ That in thy face sweet love should ever dwell; /s
+s/ s/ Whate'er thy thoughts, or thy heart's workings be, /s
+s/ s/ Thy looks should nothing thence, but sweetness tell. /s
+s/ s/ How like Eve's apple doth thy beauty grow, /s
+s/ s/ If thy sweet virtue answer not thy show! /s
+s/ s/ They that have power to hurt, and will do none, /s
+s/ s/ That do not do the thing they most do show, /s
+s/ s/ Who, moving others, are themselves as stone, /s
+s/ s/ Unmoved, cold, and to temptation slow; /s
+s/ s/ They rightly do inherit heaven's graces, /s
+s/ s/ And husband nature's riches from expense; /s
+s/ s/ They are the lords and owners of their faces, /s
+s/ s/ Others, but stewards of their excellence. /s
+s/ s/ The summer's flower is to the summer sweet, /s
+s/ s/ Though to itself, it only live and die, /s
+s/ s/ But if that flower with base infection meet, /s
+s/ s/ The basest weed outbraves his dignity: /s
+s/ s/ For sweetest things turn sourest by their deeds; /s
+s/ s/ Lilies that fester, smell far worse than weeds. /s
+s/ s/ How sweet and lovely dost thou make the shame /s
+s/ s/ Which, like a canker in the fragrant rose, /s
+s/ s/ Doth spot the beauty of thy budding name! /s
+s/ s/ O! in what sweets dost thou thy sins enclose. /s
+s/ s/ That tongue that tells the story of thy days, /s
+s/ s/ Making lascivious comments on thy sport, /s
+s/ s/ Cannot dispraise, but in a kind of praise; /s
+s/ s/ Naming thy name blesses an ill report. /s
+s/ s/ O! what a mansion have those vices got /s
+s/ s/ Which for their habitation chose out thee, /s
+s/ s/ Where beauty's veil doth cover every blot /s
+s/ s/ And all things turns to fair that eyes can see! /s
+s/ s/ Take heed, dear heart, of this large privilege; /s
+s/ s/ The hardest knife ill-used doth lose his edge. /s
+s/ s/ Some say thy fault is youth, some wantonness; /s
+s/ s/ Some say thy grace is youth and gentle sport; /s
+s/ s/ Both grace and faults are lov'd of more and less: /s
+s/ s/ Thou mak'st faults graces that to thee resort. /s
+s/ s/ As on the finger of a throned queen /s
+s/ s/ The basest jewel will be well esteem'd, /s
+s/ s/ So are those errors that in thee are seen /s
+s/ s/ To truths translated, and for true things deem'd. /s
+s/ s/ How many lambs might the stern wolf betray, /s
+s/ s/ If like a lamb he could his looks translate! /s
+s/ s/ How many gazers mightst thou lead away, /s
+s/ s/ If thou wouldst use the strength of all thy state! /s
+s/ s/ But do not so, I love thee in such sort, /s
+s/ s/ As thou being mine, mine is thy good report. /s
+s/ s/ How like a winter hath my absence been /s
+s/ s/ From thee, the pleasure of the fleeting year! /s
+s/ s/ What freezings have I felt, what dark days seen! /s
+s/ s/ What old December's bareness everywhere! /s
+s/ s/ And yet this time removed was summer's time; /s
+s/ s/ The teeming autumn, big with rich increase, /s
+s/ s/ Bearing the wanton burden of the prime, /s
+s/ s/ Like widow'd wombs after their lords' decease: /s
+s/ s/ Yet this abundant issue seemed to me /s
+s/ s/ But hope of orphans, and unfathered fruit; /s
+s/ s/ For summer and his pleasures wait on thee, /s
+s/ s/ And, thou away, the very birds are mute: /s
+s/ s/ Or, if they sing, 'tis with so dull a cheer, /s
+s/ s/ That leaves look pale, dreading the winter's near. /s
+s/ s/ From you have I been absent in the spring, /s
+s/ s/ When proud pied April, dressed in all his trim, /s
+s/ s/ Hath put a spirit of youth in every thing, /s
+s/ s/ That heavy Saturn laughed and leapt with him. /s
+s/ s/ Yet nor the lays of birds, nor the sweet smell /s
+s/ s/ Of different flowers in odour and in hue, /s
+s/ s/ Could make me any summer's story tell, /s
+s/ s/ Or from their proud lap pluck them where they grew: /s
+s/ s/ Nor did I wonder at the lily's white, /s
+s/ s/ Nor praise the deep vermilion in the rose; /s
+s/ s/ They were but sweet, but figures of delight, /s
+s/ s/ Drawn after you, you pattern of all those. /s
+s/ s/ Yet seemed it winter still, and you away, /s
+s/ s/ As with your shadow I with these did play. /s
+s/ s/ The forward violet thus did I chide: /s
+s/ s/ Sweet thief, whence didst thou steal thy sweet that smells, /s
+s/ s/ If not from my love's breath? The purple pride /s
+s/ s/ Which on thy soft cheek for complexion dwells /s
+s/ s/ In my love's veins thou hast too grossly dy'd. /s
+s/ s/ The lily I condemned for thy hand, /s
+s/ s/ And buds of marjoram had stol'n thy hair; /s
+s/ s/ The roses fearfully on thorns did stand, /s
+s/ s/ One blushing shame, another white despair; /s
+s/ s/ A third, nor red nor white, had stol'n of both, /s
+s/ s/ And to his robbery had annexed thy breath; /s
+s/ s/ But, for his theft, in pride of all his growth /s
+s/ s/ A vengeful canker eat him up to death. /s
+s/ s/ More flowers I noted, yet I none could see, /s
+s/ s/ But sweet, or colour it had stol'n from thee. /s
+s/ s/ Where art thou Muse that thou forget'st so long, /s
+s/ s/ To speak of that which gives thee all thy might? /s
+s/ s/ Spend'st thou thy fury on some worthless song, /s
+s/ s/ Darkening thy power to lend base subjects light? /s
+s/ s/ Return forgetful Muse, and straight redeem, /s
+s/ s/ In gentle numbers time so idly spent; /s
+s/ s/ Sing to the ear that doth thy lays esteem /s
+s/ s/ And gives thy pen both skill and argument. /s
+s/ s/ Rise, resty Muse, my love's sweet face survey, /s
+s/ s/ If Time have any wrinkle graven there; /s
+s/ s/ If any, be a satire to decay, /s
+s/ s/ And make Time's spoils despised every where. /s
+s/ s/ Give my love fame faster than Time wastes life, /s
+s/ s/ So thou prevent'st his scythe and crooked knife. /s
+s/ s/ O truant Muse what shall be thy amends /s
+s/ s/ For thy neglect of truth in beauty dyed? /s
+s/ s/ Both truth and beauty on my love depends; /s
+s/ s/ So dost thou too, and therein dignified. /s
+s/ s/ Make answer Muse: wilt thou not haply say, /s
+s/ s/ Beauty no pencil, beauty's truth to lay; /s
+s/ s/ But best is best, if never intermixed'? /s
+s/ s/ Because he needs no praise, wilt thou be dumb? /s
+s/ s/ Excuse not silence so, for't lies in thee /s
+s/ s/ To make him much outlive a gilded tomb /s
+s/ s/ And to be praised of ages yet to be. /s
+s/ s/ Then do thy office, Muse; I teach thee how /s
+s/ s/ To make him seem, long hence, as he shows now. /s
+s/ s/ My love is strengthened, though more weak in seeming; /s
+s/ s/ I love not less, though less the show appear; /s
+s/ s/ That love is merchandized, whose rich esteeming, /s
+s/ s/ The owner's tongue doth publish every where. /s
+s/ s/ Our love was new, and then but in the spring, /s
+s/ s/ When I was wont to greet it with my lays; /s
+s/ s/ As Philomel in summer's front doth sing, /s
+s/ s/ And stops his pipe in growth of riper days: /s
+s/ s/ Not that the summer is less pleasant now /s
+s/ s/ Than when her mournful hymns did hush the night, /s
+s/ s/ But that wild music burthens every bough, /s
+s/ s/ And sweets grown common lose their dear delight. /s
+s/ s/ Therefore like her, I sometime hold my tongue: /s
+s/ s/ Because I would not dull you with my song. /s
+s/ s/ Alack! what poverty my Muse brings forth, /s
+s/ s/ That having such a scope to show her pride, /s
+s/ s/ The argument all bare is of more worth /s
+s/ s/ Than when it hath my added praise beside! /s
+s/ s/ O! blame me not, if I no more can write! /s
+s/ s/ Look in your glass, and there appears a face /s
+s/ s/ That over-goes my blunt invention quite, /s
+s/ s/ Dulling my lines, and doing me disgrace. /s
+s/ s/ Were it not sinful then, striving to mend, /s
+s/ s/ To mar the subject that before was well? /s
+s/ s/ For to no other pass my verses tend /s
+s/ s/ Than of your graces and your gifts to tell; /s
+s/ s/ And more, much more, than in my verse can sit, /s
+s/ s/ Your own glass shows you when you look in it. /s
+s/ s/ To me, fair friend, you never can be old, /s
+s/ s/ For as you were when first your eye I ey'd, /s
+s/ s/ Such seems your beauty still. Three winters cold, /s
+s/ s/ Have from the forests shook three summers' pride, /s
+s/ s/ Three beauteous springs to yellow autumn turned, /s
+s/ s/ In process of the seasons have I seen, /s
+s/ s/ Three April perfumes in three hot Junes burned, /s
+s/ s/ Since first I saw you fresh, which yet are green. /s
+s/ s/ Ah! yet doth beauty like a dial-hand, /s
+s/ s/ Steal from his figure, and no pace perceived; /s
+s/ s/ So your sweet hue, which methinks still doth stand, /s
+s/ s/ Hath motion, and mine eye may be deceived: /s
+s/ s/ For fear of which, hear this thou age unbred: /s
+s/ s/ Ere you were born was beauty's summer dead. /s
+s/ s/ Let not my love be called idolatry, /s
+s/ s/ Nor my beloved as an idol show, /s
+s/ s/ Since all alike my songs and praises be /s
+s/ s/ To one, of one, still such, and ever so. /s
+s/ s/ Kind is my love to-day, to-morrow kind, /s
+s/ s/ Still constant in a wondrous excellence; /s
+s/ s/ Therefore my verse to constancy confined, /s
+s/ s/ One thing expressing, leaves out difference. /s
+s/ s/ Fair, kind, and true, is all my argument, /s
+s/ s/ Fair, kind, and true, varying to other words; /s
+s/ s/ And in this change is my invention spent, /s
+s/ s/ Three themes in one, which wondrous scope affords. /s
+s/ s/ Fair, kind, and true, have often lived alone, /s
+s/ s/ Which three till now, never kept seat in one. /s
+s/ s/ When in the chronicle of wasted time /s
+s/ s/ I see descriptions of the fairest wights, /s
+s/ s/ And beauty making beautiful old rhyme, /s
+s/ s/ In praise of ladies dead and lovely knights, /s
+s/ s/ Then, in the blazon of sweet beauty's best, /s
+s/ s/ Of hand, of foot, of lip, of eye, of brow, /s
+s/ s/ I see their antique pen would have expressed /s
+s/ s/ Even such a beauty as you master now. /s
+s/ s/ So all their praises are but prophecies /s
+s/ s/ Of this our time, all you prefiguring; /s
+s/ s/ And for they looked but with divining eyes, /s
+s/ s/ They had not skill enough your worth to sing: /s
+s/ s/ For we, which now behold these present days, /s
+s/ s/ Have eyes to wonder, but lack tongues to praise. /s
+s/ s/ Not mine own fears, nor the prophetic soul /s
+s/ s/ Of the wide world dreaming on things to come, /s
+s/ s/ Can yet the lease of my true love control, /s
+s/ s/ Supposed as forfeit to a confined doom. /s
+s/ s/ The mortal moon hath her eclipse endured, /s
+s/ s/ And the sad augurs mock their own presage; /s
+s/ s/ Incertainties now crown themselves assured, /s
+s/ s/ And peace proclaims olives of endless age. /s
+s/ s/ Now with the drops of this most balmy time, /s
+s/ s/ My love looks fresh, and Death to me subscribes, /s
+s/ s/ Since, spite of him, I'll live in this poor rhyme, /s
+s/ s/ While he insults o'er dull and speechless tribes: /s
+s/ s/ And thou in this shalt find thy monument, /s
+s/ s/ When tyrants' crests and tombs of brass are spent. /s
+s/ s/ What's in the brain that ink may character /s
+s/ s/ Which hath not figured to thee my true spirit? /s
+s/ s/ What's new to speak, what now to register, /s
+s/ s/ That may express my love, or thy dear merit? /s
+s/ s/ Nothing, sweet boy; but yet, like prayers divine, /s
+s/ s/ I must each day say o'er the very same; /s
+s/ s/ Counting no old thing old, thou mine, I thine, /s
+s/ s/ Even as when first I hallowed thy fair name. /s
+s/ s/ So that eternal love in love's fresh case, /s
+s/ s/ Weighs not the dust and injury of age, /s
+s/ s/ Nor gives to necessary wrinkles place, /s
+s/ s/ But makes antiquity for aye his page; /s
+s/ s/ Finding the first conceit of love there bred, /s
+s/ s/ Where time and outward form would show it dead. /s
+s/ s/ O! never say that I was false of heart, /s
+s/ s/ Though absence seemed my flame to qualify, /s
+s/ s/ As easy might I from my self depart /s
+s/ s/ As from my soul which in thy breast doth lie: /s
+s/ s/ That is my home of love: if I have ranged, /s
+s/ s/ Like him that travels, I return again; /s
+s/ s/ Just to the time, not with the time exchanged, /s
+s/ s/ So that myself bring water for my stain. /s
+s/ s/ Never believe though in my nature reigned, /s
+s/ s/ All frailties that besiege all kinds of blood, /s
+s/ s/ That it could so preposterously be stained, /s
+s/ s/ To leave for nothing all thy sum of good; /s
+s/ s/ For nothing this wide universe I call, /s
+s/ s/ Save thou, my rose, in it thou art my all. /s
+s/ s/ Alas! 'tis true, I have gone here and there, /s
+s/ s/ And made my self a motley to the view, /s
+s/ s/ Gored mine own thoughts, sold cheap what is most dear, /s
+s/ s/ Made old offences of affections new; /s
+s/ s/ Most true it is, that I have looked on truth /s
+s/ s/ Askance and strangely; but, by all above, /s
+s/ s/ These blenches gave my heart another youth, /s
+s/ s/ And worse essays proved thee my best of love. /s
+s/ s/ Now all is done, have what shall have no end: /s
+s/ s/ Mine appetite I never more will grind /s
+s/ s/ On newer proof, to try an older friend, /s
+s/ s/ A god in love, to whom I am confined. /s
+s/ s/ Then give me welcome, next my heaven the best, /s
+s/ s/ Even to thy pure and most most loving breast. /s
+s/ s/ O! for my sake do you with Fortune chide, /s
+s/ s/ The guilty goddess of my harmful deeds, /s
+s/ s/ That did not better for my life provide /s
+s/ s/ Than public means which public manners breeds. /s
+s/ s/ Thence comes it that my name receives a brand, /s
+s/ s/ And almost thence my nature is subdued /s
+s/ s/ To what it works in, like the dyer's hand: /s
+s/ s/ Pity me, then, and wish I were renewed; /s
+s/ s/ Whilst, like a willing patient, I will drink /s
+s/ s/ Potions of eisel 'gainst my strong infection; /s
+s/ s/ No bitterness that I will bitter think, /s
+s/ s/ Nor double penance, to correct correction. /s
+s/ s/ Pity me then, dear friend, and I assure ye, /s
+s/ s/ Even that your pity is enough to cure me. /s
+s/ s/ Your love and pity doth the impression fill, /s
+s/ s/ Which vulgar scandal stamped upon my brow; /s
+s/ s/ For what care I who calls me well or ill, /s
+s/ s/ So you o'er-green my bad, my good allow? /s
+s/ s/ You are my all-the-world, and I must strive /s
+s/ s/ To know my shames and praises from your tongue; /s
+s/ s/ None else to me, nor I to none alive, /s
+s/ s/ That my steeled sense or changes right or wrong. /s
+s/ s/ In so profound abysm I throw all care /s
+s/ s/ Of others' voices, that my adder's sense /s
+s/ s/ To critic and to flatterer stopped are. /s
+s/ s/ Mark how with my neglect I do dispense: /s
+s/ s/ You are so strongly in my purpose bred, /s
+s/ s/ That all the world besides methinks y'are dead. /s
+s/ s/ Since I left you, mine eye is in my mind; /s
+s/ s/ And that which governs me to go about /s
+s/ s/ Doth part his function and is partly blind, /s
+s/ s/ Seems seeing, but effectually is out; /s
+s/ s/ For it no form delivers to the heart /s
+s/ s/ Of bird, of flower, or shape which it doth latch: /s
+s/ s/ Of his quick objects hath the mind no part, /s
+s/ s/ Nor his own vision holds what it doth catch; /s
+s/ s/ For if it see the rud'st or gentlest sight, /s
+s/ s/ The most sweet favour or deformed'st creature, /s
+s/ s/ The mountain or the sea, the day or night, /s
+s/ s/ The crow, or dove, it shapes them to your feature. /s
+s/ s/ Incapable of more, replete with you, /s
+s/ s/ My most true mind thus maketh mine eye untrue. /s
+s/ s/ Or whether doth my mind, being crowned with you, /s
+s/ s/ Drink up the monarch's plague, this flattery? /s
+s/ s/ Or whether shall I say, mine eye saith true, /s
+s/ s/ And that your love taught it this alchemy, /s
+s/ s/ To make of monsters and things indigest /s
+s/ s/ Such cherubins as your sweet self resemble, /s
+s/ s/ Creating every bad a perfect best, /s
+s/ s/ As fast as objects to his beams assemble? /s
+s/ s/ O! 'tis the first, 'tis flattery in my seeing, /s
+s/ s/ And my great mind most kingly drinks it up: /s
+s/ s/ Mine eye well knows what with his gust is 'greeing, /s
+s/ s/ And to his palate doth prepare the cup: /s
+s/ s/ If it be poisoned, 'tis the lesser sin /s
+s/ s/ That mine eye loves it and doth first begin. /s
+s/ s/ Those lines that I before have writ do lie, /s
+s/ s/ Even those that said I could not love you dearer: /s
+s/ s/ Yet then my judgment knew no reason why /s
+s/ s/ My most full flame should afterwards burn clearer. /s
+s/ s/ But reckoning Time, whose million'd accidents /s
+s/ s/ Creep in 'twixt vows, and change decrees of kings, /s
+s/ s/ Tan sacred beauty, blunt the sharp'st intents, /s
+s/ s/ Divert strong minds to the course of altering things; /s
+s/ s/ Alas! why, fearing of Time's tyranny, /s
+s/ s/ Might I not then say, 'Now I love you best ,' /s
+s/ s/ When I was certain o'er incertainty, /s
+s/ s/ Crowning the present, doubting of the rest? /s
+s/ s/ Love is a babe, then might I not say so, /s
+s/ s/ To give full growth to that which still doth grow? /s
+s/ s/ Let me not to the marriage of true minds /s
+s/ s/ Admit impediments. Love is not love /s
+s/ s/ Which alters when it alteration finds, /s
+s/ s/ Or bends with the remover to remove: /s
+s/ s/ O, no! it is an ever-fixed mark, /s
+s/ s/ That looks on tempests and is never shaken; /s
+s/ s/ It is the star to every wandering bark, /s
+s/ s/ Whose worth's unknown, although his height be taken. /s
+s/ s/ Love's not Time's fool, though rosy lips and cheeks /s
+s/ s/ Within his bending sickle's compass come; /s
+s/ s/ Love alters not with his brief hours and weeks, /s
+s/ s/ But bears it out even to the edge of doom. /s
+s/ s/ Accuse me thus: that I have scanted all, /s
+s/ s/ Wherein I should your great deserts repay, /s
+s/ s/ Forgot upon your dearest love to call, /s
+s/ s/ Whereto all bonds do tie me day by day; /s
+s/ s/ That I have frequent been with unknown minds, /s
+s/ s/ And given to time your own dear-purchased right; /s
+s/ s/ That I have hoisted sail to all the winds /s
+s/ s/ Which should transport me farthest from your sight. /s
+s/ s/ Book both my wilfulness and errors down, /s
+s/ s/ And on just proof surmise accumulate; /s
+s/ s/ Bring me within the level of your frown, /s
+s/ s/ But shoot not at me in your wakened hate; /s
+s/ s/ Since my appeal says I did strive to prove /s
+s/ s/ The constancy and virtue of your love. /s
+s/ s/ Like as, to make our appetites more keen, /s
+s/ s/ With eager compounds we our palate urge; /s
+s/ s/ As, to prevent our maladies unseen, /s
+s/ s/ We sicken to shun sickness when we purge; /s
+s/ s/ Even so, being full of your ne'er-cloying sweetness, /s
+s/ s/ To bitter sauces did I frame my feeding; /s
+s/ s/ And, sick of welfare, found a kind of meetness /s
+s/ s/ To be diseased, ere that there was true needing. /s
+s/ s/ Thus policy in love, to anticipate /s
+s/ s/ The ills that were not, grew to faults assured, /s
+s/ s/ And brought to medicine a healthful state /s
+s/ s/ Which, rank of goodness, would by ill be cured; /s
+s/ s/ But thence I learn and find the lesson true, /s
+s/ s/ Drugs poison him that so fell sick of you. /s
+s/ s/ What potions have I drunk of Siren tears, /s
+s/ s/ Distilled from limbecks foul as hell within, /s
+s/ s/ Applying fears to hopes, and hopes to fears, /s
+s/ s/ Still losing when I saw myself to win! /s
+s/ s/ What wretched errors hath my heart committed, /s
+s/ s/ Whilst it hath thought itself so blessed never! /s
+s/ s/ How have mine eyes out of their spheres been fitted, /s
+s/ s/ In the distraction of this madding fever! /s
+s/ s/ O benefit of ill! now I find true /s
+s/ s/ That better is by evil still made better; /s
+s/ s/ And ruined love, when it is built anew, /s
+s/ s/ Grows fairer than at first, more strong, far greater. /s
+s/ s/ So I return rebuked to my content, /s
+s/ s/ And gain by ills thrice more than I have spent. /s
+s/ s/ That you were once unkind befriends me now, /s
+s/ s/ And for that sorrow, which I then did feel, /s
+s/ s/ Needs must I under my transgression bow, /s
+s/ s/ Unless my nerves were brass or hammered steel. /s
+s/ s/ For if you were by my unkindness shaken, /s
+s/ s/ As I by yours, you've passed a hell of time; /s
+s/ s/ And I, a tyrant, have no leisure taken /s
+s/ s/ To weigh how once I suffered in your crime. /s
+s/ s/ O! that our night of woe might have remembered /s
+s/ s/ My deepest sense, how hard true sorrow hits, /s
+s/ s/ And soon to you, as you to me, then tendered /s
+s/ s/ The humble salve, which wounded bosoms fits! /s
+s/ s/ But that your trespass now becomes a fee; /s
+s/ s/ Mine ransoms yours, and yours must ransom me. /s
+s/ s/ When not to be receives reproach of being; /s
+s/ s/ And the just pleasure lost, which is so deemed /s
+s/ s/ Not by our feeling, but by others' seeing: /s
+s/ s/ For why should others' false adulterate eyes /s
+s/ s/ Give salutation to my sportive blood? /s
+s/ s/ Or on my frailties why are frailer spies, /s
+s/ s/ Which in their wills count bad what I think good? /s
+s/ s/ No, I am that I am, and they that level /s
+s/ s/ At my abuses reckon up their own: /s
+s/ s/ I may be straight though they themselves be bevel; /s
+s/ s/ By their rank thoughts, my deeds must not be shown; /s
+s/ s/ Unless this general evil they maintain, /s
+s/ s/ All men are bad and in their badness reign. /s
+s/ s/ Thy gift, thy tables, are within my brain /s
+s/ s/ Full charactered with lasting memory, /s
+s/ s/ Which shall above that idle rank remain, /s
+s/ s/ Beyond all date, even to eternity: /s
+s/ s/ Or, at the least, so long as brain and heart /s
+s/ s/ Have faculty by nature to subsist; /s
+s/ s/ Till each to razed oblivion yield his part /s
+s/ s/ Of thee, thy record never can be missed. /s
+s/ s/ That poor retention could not so much hold, /s
+s/ s/ Nor need I tallies thy dear love to score; /s
+s/ s/ Therefore to give them from me was I bold, /s
+s/ s/ To trust those tables that receive thee more: /s
+s/ s/ To keep an adjunct to remember thee /s
+s/ s/ Were to import forgetfulness in me. /s
+s/ s/ No, Time, thou shalt not boast that I do change: /s
+s/ s/ Thy pyramids built up with newer might /s
+s/ s/ To me are nothing novel, nothing strange; /s
+s/ s/ They are but dressings of a former sight. /s
+s/ s/ Our dates are brief, and therefore we admire /s
+s/ s/ What thou dost foist upon us that is old; /s
+s/ s/ And rather make them born to our desire /s
+s/ s/ Than think that we before have heard them told. /s
+s/ s/ Thy registers and thee I both defy, /s
+s/ s/ Not wondering at the present nor the past, /s
+s/ s/ For thy records and what we see doth lie, /s
+s/ s/ Made more or less by thy continual haste. /s
+s/ s/ This I do vow and this shall ever be; /s
+s/ s/ I will be true despite thy scythe and thee. /s
+s/ s/ If my dear love were but the child of state, /s
+s/ s/ It might for Fortune's bastard be unfathered, /s
+s/ s/ As subject to Time's love or to Time's hate, /s
+s/ s/ Weeds among weeds, or flowers with flowers gathered. /s
+s/ s/ No, it was builded far from accident; /s
+s/ s/ It suffers not in smiling pomp, nor falls /s
+s/ s/ Under the blow of thralled discontent, /s
+s/ s/ Whereto th' inviting time our fashion calls: /s
+s/ s/ It fears not policy, that heretic, /s
+s/ s/ Which works on leases of short-number'd hours, /s
+s/ s/ But all alone stands hugely politic, /s
+s/ s/ That it nor grows with heat, nor drowns with showers. /s
+s/ s/ To this I witness call the fools of time, /s
+s/ s/ Which die for goodness, who have lived for crime. /s
+s/ s/ Were't aught to me I bore the canopy, /s
+s/ s/ With my extern the outward honouring, /s
+s/ s/ Or laid great bases for eternity, /s
+s/ s/ Which proves more short than waste or ruining? /s
+s/ s/ Have I not seen dwellers on form and favour /s
+s/ s/ Lose all and more by paying too much rent /s
+s/ s/ For compound sweet, forgoing simple savour, /s
+s/ s/ Pitiful thrivers, in their gazing spent? /s
+s/ s/ No; let me be obsequious in thy heart, /s
+s/ s/ And take thou my oblation, poor but free, /s
+s/ s/ Which is not mixed with seconds, knows no art, /s
+s/ s/ But mutual render, only me for thee. /s
+s/ s/ Hence, thou suborned informer! a true soul /s
+s/ s/ When most impeached stands least in thy control. /s
+s/ s/ O thou, my lovely boy, who in thy power /s
+s/ s/ Dost hold Time's fickle glass, his sickle, hour; /s
+s/ s/ Who hast by waning grown, and therein showest /s
+s/ s/ Thy lovers withering, as thy sweet self growest. /s
+s/ s/ If Nature, sovereign mistress over wrack, /s
+s/ s/ As thou goest onwards still will pluck thee back, /s
+s/ s/ She keeps thee to this purpose, that her skill /s
+s/ s/ May time disgrace and wretched minutes kill. /s
+s/ s/ Yet fear her, O thou minion of her pleasure! /s
+s/ s/ She may detain, but not still keep, her treasure: /s
+s/ s/ Her audit (though delayed) answered must be, /s
+s/ s/ And her quietus is to render thee. /s
+s/ s/ In the old age black was not counted fair, /s
+s/ s/ Or if it were, it bore not beauty's name; /s
+s/ s/ But now is black beauty's successive heir, /s
+s/ s/ And beauty slandered with a bastard shame: /s
+s/ s/ For since each hand hath put on Nature's power, /s
+s/ s/ Fairing the foul with Art's false borrowed face, /s
+s/ s/ Sweet beauty hath no name, no holy bower, /s
+s/ s/ But is profaned, if not lives in disgrace. /s
+s/ s/ Therefore my mistress' eyes are raven black, /s
+s/ s/ Her eyes so suited, and they mourners seem /s
+s/ s/ At such who, not born fair, no beauty lack, /s
+s/ s/ Sland'ring creation with a false esteem: /s
+s/ s/ Yet so they mourn becoming of their woe, /s
+s/ s/ That every tongue says beauty should look so. /s
+s/ s/ How oft when thou, my music, music play'st, /s
+s/ s/ Upon that blessed wood whose motion sounds /s
+s/ s/ With thy sweet fingers when thou gently sway'st /s
+s/ s/ The wiry concord that mine ear confounds, /s
+s/ s/ Do I envy those jacks that nimble leap, /s
+s/ s/ To kiss the tender inward of thy hand, /s
+s/ s/ Whilst my poor lips which should that harvest reap, /s
+s/ s/ At the wood's boldness by thee blushing stand! /s
+s/ s/ To be so tickled, they would change their state /s
+s/ s/ And situation with those dancing chips, /s
+s/ s/ O'er whom thy fingers walk with gentle gait, /s
+s/ s/ Making dead wood more bless'd than living lips. /s
+s/ s/ Since saucy jacks so happy are in this, /s
+s/ s/ Give them thy fingers, me thy lips to kiss. /s
+s/ s/ The expense of spirit in a waste of shame /s
+s/ s/ Is lust in action: and till action, lust /s
+s/ s/ Is perjured, murderous, bloody, full of blame, /s
+s/ s/ Savage, extreme, rude, cruel, not to trust; /s
+s/ s/ Enjoyed no sooner but despised straight; /s
+s/ s/ Past reason hunted; and no sooner had, /s
+s/ s/ Past reason hated, as a swallowed bait, /s
+s/ s/ On purpose laid to make the taker mad. /s
+s/ s/ Mad in pursuit and in possession so; /s
+s/ s/ Had, having, and in quest to have extreme; /s
+s/ s/ A bliss in proof, and proved, a very woe; /s
+s/ s/ Before, a joy proposed; behind a dream. /s
+s/ s/ All this the world well knows; yet none knows well /s
+s/ s/ To shun the heaven that leads men to this hell. /s
+s/ s/ My mistress' eyes are nothing like the sun; /s
+s/ s/ Coral is far more red, than her lips red: /s
+s/ s/ If snow be white, why then her breasts are dun; /s
+s/ s/ If hairs be wires, black wires grow on her head. /s
+s/ s/ I have seen roses damasked, red and white, /s
+s/ s/ But no such roses see I in her cheeks; /s
+s/ s/ And in some perfumes is there more delight /s
+s/ s/ Than in the breath that from my mistress reeks. /s
+s/ s/ I love to hear her speak, yet well I know /s
+s/ s/ That music hath a far more pleasing sound: /s
+s/ s/ I grant I never saw a goddess go, /s
+s/ s/ My mistress, when she walks, treads on the ground: /s
+s/ s/ And yet by heaven, I think my love as rare, /s
+s/ s/ As any she belied with false compare. /s
+s/ s/ Thou art as tyrannous, so as thou art, /s
+s/ s/ As those whose beauties proudly make them cruel; /s
+s/ s/ For well thou know'st to my dear doting heart /s
+s/ s/ Thou art the fairest and most precious jewel. /s
+s/ s/ Yet, in good faith, some say that thee behold, /s
+s/ s/ Thy face hath not the power to make love groan; /s
+s/ s/ To say they err I dare not be so bold, /s
+s/ s/ Although I swear it to myself alone. /s
+s/ s/ And to be sure that is not false I swear, /s
+s/ s/ A thousand groans, but thinking on thy face, /s
+s/ s/ One on another's neck, do witness bear /s
+s/ s/ Thy black is fairest in my judgment's place. /s
+s/ s/ In nothing art thou black save in thy deeds, /s
+s/ s/ And thence this slander, as I think, proceeds. /s
+s/ s/ Thine eyes I love, and they, as pitying me, /s
+s/ s/ Knowing thy heart torments me with disdain, /s
+s/ s/ Have put on black and loving mourners be, /s
+s/ s/ Looking with pretty ruth upon my pain. /s
+s/ s/ And truly not the morning sun of heaven /s
+s/ s/ Better becomes the grey cheeks of the east, /s
+s/ s/ Nor that full star that ushers in the even, /s
+s/ s/ Doth half that glory to the sober west, /s
+s/ s/ As those two mourning eyes become thy face: /s
+s/ s/ O! let it then as well beseem thy heart /s
+s/ s/ To mourn for me since mourning doth thee grace, /s
+s/ s/ And suit thy pity like in every part. /s
+s/ s/ Then will I swear beauty herself is black, /s
+s/ s/ And all they foul that thy complexion lack. /s
+s/ s/ Beshrew that heart that makes my heart to groan /s
+s/ s/ For that deep wound it gives my friend and me! /s
+s/ s/ Is't not enough to torture me alone, /s
+s/ s/ But slave to slavery my sweet'st friend must be? /s
+s/ s/ Me from myself thy cruel eye hath taken, /s
+s/ s/ And my next self thou harder hast engrossed: /s
+s/ s/ Of him, myself, and thee I am forsaken; /s
+s/ s/ A torment thrice three-fold thus to be crossed. /s
+s/ s/ Prison my heart in thy steel bosom's ward, /s
+s/ s/ But then my friend's heart let my poor heart bail; /s
+s/ s/ Whoe'er keeps me, let my heart be his guard; /s
+s/ s/ Thou canst not then use rigour in my jail: /s
+s/ s/ And yet thou wilt; for I, being pent in thee, /s
+s/ s/ Perforce am thine, and all that is in me. /s
+s/ s/ So now I have confessed that he is thine, /s
+s/ s/ And I my self am mortgaged to thy will, /s
+s/ s/ Myself I'll forfeit, so that other mine /s
+s/ s/ Thou wilt restore to be my comfort still: /s
+s/ s/ But thou wilt not, nor he will not be free, /s
+s/ s/ For thou art covetous, and he is kind; /s
+s/ s/ He learned but surety-like to write for me, /s
+s/ s/ Under that bond that him as fast doth bind. /s
+s/ s/ The statute of thy beauty thou wilt take, /s
+s/ s/ Thou usurer, that put'st forth all to use, /s
+s/ s/ And sue a friend came debtor for my sake; /s
+s/ s/ So him I lose through my unkind abuse. /s
+s/ s/ Him have I lost; thou hast both him and me: /s
+s/ s/ He pays the whole, and yet am I not free. /s
+s/ s/ Whoever hath her wish, thou hast thy Will, /s
+s/ s/ And Will to boot, and Will in over-plus; /s
+s/ s/ More than enough am I that vexed thee still, /s
+s/ s/ To thy sweet will making addition thus. /s
+s/ s/ Wilt thou, whose will is large and spacious, /s
+s/ s/ Not once vouchsafe to hide my will in thine? /s
+s/ s/ Shall will in others seem right gracious, /s
+s/ s/ And in my will no fair acceptance shine? /s
+s/ s/ The sea, all water, yet receives rain still, /s
+s/ s/ And in abundance addeth to his store; /s
+s/ s/ So thou, being rich in Will, add to thy Will /s
+s/ s/ One will of mine, to make thy large will more. /s
+s/ s/ Let no unkind, no fair beseechers kill; /s
+s/ s/ Think all but one, and me in that one Will. /s
+s/ s/ If thy soul check thee that I come so near, /s
+s/ s/ Swear to thy blind soul that I was thy Will, /s
+s/ s/ And will, thy soul knows, is admitted there; /s
+s/ s/ Thus far for love, my love-suit, sweet, fulfil. /s
+s/ s/ Will, will fulfil the treasure of thy love, /s
+s/ s/ Ay, fill it full with wills, and my will one. /s
+s/ s/ In things of great receipt with ease we prove /s
+s/ s/ Among a number one is reckoned none: /s
+s/ s/ Then in the number let me pass untold, /s
+s/ s/ Though in thy store's account I one must be; /s
+s/ s/ For nothing hold me, so it please thee hold /s
+s/ s/ That nothing me, a something sweet to thee: /s
+s/ s/ Make but my name thy love, and love that still, /s
+s/ s/ And then thou lovest me for my name is 'Will.' /s
+s/ s/ Thou blind fool, Love, what dost thou to mine eyes, /s
+s/ s/ That they behold, and see not what they see? /s
+s/ s/ They know what beauty is, see where it lies, /s
+s/ s/ Yet what the best is take the worst to be. /s
+s/ s/ If eyes, corrupt by over-partial looks, /s
+s/ s/ Be anchored in the bay where all men ride, /s
+s/ s/ Why of eyes' falsehood hast thou forged hooks, /s
+s/ s/ Whereto the judgment of my heart is tied? /s
+s/ s/ Why should my heart think that a several plot, /s
+s/ s/ Which my heart knows the wide world's common place? /s
+s/ s/ Or mine eyes, seeing this, say this is not, /s
+s/ s/ To put fair truth upon so foul a face? /s
+s/ s/ In things right true my heart and eyes have erred, /s
+s/ s/ And to this false plague are they now transferred. /s
+s/ s/ When my love swears that she is made of truth, /s
+s/ s/ I do believe her though I know she lies, /s
+s/ s/ That she might think me some untutored youth, /s
+s/ s/ Unlearned in the world's false subtleties. /s
+s/ s/ Thus vainly thinking that she thinks me young, /s
+s/ s/ Although she knows my days are past the best, /s
+s/ s/ Simply I credit her false-speaking tongue: /s
+s/ s/ On both sides thus is simple truth suppressed: /s
+s/ s/ But wherefore says she not she is unjust? /s
+s/ s/ And wherefore say not I that I am old? /s
+s/ s/ O! love's best habit is in seeming trust, /s
+s/ s/ And age in love, loves not to have years told: /s
+s/ s/ Therefore I lie with her, and she with me, /s
+s/ s/ And in our faults by lies we flattered be. /s
+s/ s/ O! call not me to justify the wrong /s
+s/ s/ That thy unkindness lays upon my heart; /s
+s/ s/ Wound me not with thine eye, but with thy tongue: /s
+s/ s/ Use power with power, and slay me not by art, /s
+s/ s/ Tell me thou lov'st elsewhere; but in my sight, /s
+s/ s/ Dear heart, forbear to glance thine eye aside: /s
+s/ s/ What need'st thou wound with cunning, when thy might /s
+s/ s/ Is more than my o'erpressed defence can bide? /s
+s/ s/ Let me excuse thee: ah! my love well knows /s
+s/ s/ Her pretty looks have been mine enemies; /s
+s/ s/ And therefore from my face she turns my foes, /s
+s/ s/ That they elsewhere might dart their injuries: /s
+s/ s/ Yet do not so; but since I am near slain, /s
+s/ s/ Kill me outright with looks, and rid my pain. /s
+s/ s/ Be wise as thou art cruel; do not press /s
+s/ s/ My tongue-tied patience with too much disdain; /s
+s/ s/ Lest sorrow lend me words, and words express /s
+s/ s/ The manner of my pity-wanting pain. /s
+s/ s/ If I might teach thee wit, better it were, /s
+s/ s/ Though not to love, yet, love to tell me so; /s
+s/ s/ As testy sick men, when their deaths be near, /s
+s/ s/ No news but health from their physicians know; /s
+s/ s/ For, if I should despair, I should grow mad, /s
+s/ s/ And in my madness might speak ill of thee; /s
+s/ s/ Now this ill-wresting world is grown so bad, /s
+s/ s/ Mad slanderers by mad ears believed be. /s
+s/ s/ That I may not be so, nor thou belied, /s
+s/ s/ Bear thine eyes straight, though thy proud heart go wide. /s
+s/ s/ In faith I do not love thee with mine eyes, /s
+s/ s/ For they in thee a thousand errors note; /s
+s/ s/ But 'tis my heart that loves what they despise, /s
+s/ s/ Who, in despite of view, is pleased to dote. /s
+s/ s/ Nor are mine ears with thy tongue's tune delighted; /s
+s/ s/ Nor tender feeling, to base touches prone, /s
+s/ s/ Nor taste, nor smell, desire to be invited /s
+s/ s/ To any sensual feast with thee alone: /s
+s/ s/ But my five wits nor my five senses can /s
+s/ s/ Dissuade one foolish heart from serving thee, /s
+s/ s/ Who leaves unswayed the likeness of a man, /s
+s/ s/ Thy proud heart's slave and vassal wretch to be: /s
+s/ s/ Only my plague thus far I count my gain, /s
+s/ s/ That she that makes me sin awards me pain. /s
+s/ s/ Love is my sin, and thy dear virtue hate, /s
+s/ s/ Hate of my sin, grounded on sinful loving: /s
+s/ s/ O! but with mine compare thou thine own state, /s
+s/ s/ And thou shalt find it merits not reproving; /s
+s/ s/ Or, if it do, not from those lips of thine, /s
+s/ s/ That have profaned their scarlet ornaments /s
+s/ s/ And sealed false bonds of love as oft as mine, /s
+s/ s/ Robbed others' beds' revenues of their rents. /s
+s/ s/ Be it lawful I love thee, as thou lov'st those /s
+s/ s/ Whom thine eyes woo as mine importune thee: /s
+s/ s/ Root pity in thy heart, that, when it grows, /s
+s/ s/ Thy pity may deserve to pitied be. /s
+s/ s/ If thou dost seek to have what thou dost hide, /s
+s/ s/ By self-example mayst thou be denied! /s
+s/ s/ Lo, as a careful housewife runs to catch /s
+s/ s/ One of her feathered creatures broke away, /s
+s/ s/ Sets down her babe, and makes all swift dispatch /s
+s/ s/ In pursuit of the thing she would have stay; /s
+s/ s/ Whilst her neglected child holds her in chase, /s
+s/ s/ Cries to catch her whose busy care is bent /s
+s/ s/ To follow that which flies before her face, /s
+s/ s/ Not prizing her poor infant's discontent; /s
+s/ s/ So runn'st thou after that which flies from thee, /s
+s/ s/ Whilst I thy babe chase thee afar behind; /s
+s/ s/ But if thou catch thy hope, turn back to me, /s
+s/ s/ And play the mother's part, kiss me, be kind; /s
+s/ s/ So will I pray that thou mayst have thy 'Will ,' /s
+s/ s/ If thou turn back and my loud crying still. /s
+s/ s/ Two loves I have of comfort and despair, /s
+s/ s/ Which like two spirits do suggest me still: /s
+s/ s/ The better angel is a man right fair, /s
+s/ s/ The worser spirit a woman coloured ill. /s
+s/ s/ To win me soon to hell, my female evil, /s
+s/ s/ Tempteth my better angel from my side, /s
+s/ s/ And would corrupt my saint to be a devil, /s
+s/ s/ Wooing his purity with her foul pride. /s
+s/ s/ And whether that my angel be turned fiend, /s
+s/ s/ Suspect I may, yet not directly tell; /s
+s/ s/ But being both from me, both to each friend, /s
+s/ s/ I guess one angel in another's hell: /s
+s/ s/ Yet this shall I ne'er know, but live in doubt, /s
+s/ s/ Till my bad angel fire my good one out. /s
+s/ s/ Those lips that Love's own hand did make, /s
+s/ s/ Breathed forth the sound that said 'I hate', /s
+s/ s/ To me that languished for her sake: /s
+s/ s/ But when she saw my woeful state, /s
+s/ s/ Straight in her heart did mercy come, /s
+s/ s/ Chiding that tongue that ever sweet /s
+s/ s/ Was used in giving gentle doom; /s
+s/ s/ And taught it thus anew to greet; /s
+s/ s/ That followed it as gentle day, /s
+s/ s/ Doth follow night, who like a fiend /s
+s/ s/ From heaven to hell is flown away. /s
+s/ s/ And saved my life, saying 'not you'. /s
+s/ s/ Poor soul, the centre of my sinful earth, /s
+s/ s/ Why dost thou pine within and suffer dearth, /s
+s/ s/ Painting thy outward walls so costly gay? /s
+s/ s/ Why so large cost, having so short a lease, /s
+s/ s/ Dost thou upon thy fading mansion spend? /s
+s/ s/ Shall worms, inheritors of this excess, /s
+s/ s/ Eat up thy charge? Is this thy body's end? /s
+s/ s/ Then soul, live thou upon thy servant's loss, /s
+s/ s/ And let that pine to aggravate thy store; /s
+s/ s/ Buy terms divine in selling hours of dross; /s
+s/ s/ Within be fed, without be rich no more: /s
+s/ s/ So shall thou feed on Death, that feeds on men, /s
+s/ s/ And Death once dead, there's no more dying then. /s
+s/ s/ My love is as a fever longing still, /s
+s/ s/ For that which longer nurseth the disease; /s
+s/ s/ Feeding on that which doth preserve the ill, /s
+s/ s/ The uncertain sickly appetite to please. /s
+s/ s/ My reason, the physician to my love, /s
+s/ s/ Angry that his prescriptions are not kept, /s
+s/ s/ Hath left me, and I desperate now approve /s
+s/ s/ Desire is death, which physic did except. /s
+s/ s/ Past cure I am, now Reason is past care, /s
+s/ s/ And frantic-mad with evermore unrest; /s
+s/ s/ My thoughts and my discourse as madmen's are, /s
+s/ s/ At random from the truth vainly expressed; /s
+s/ s/ For I have sworn thee fair, and thought thee bright, /s
+s/ s/ Who art as black as hell, as dark as night. /s
+s/ s/ O me! what eyes hath Love put in my head, /s
+s/ s/ Which have no correspondence with true sight; /s
+s/ s/ Or, if they have, where is my judgment fled, /s
+s/ s/ That censures falsely what they see aright? /s
+s/ s/ If that be fair whereon my false eyes dote, /s
+s/ s/ What means the world to say it is not so? /s
+s/ s/ If it be not, then love doth well denote /s
+s/ s/ Love's eye is not so true as all men's: no, /s
+s/ s/ How can it? O! how can Love's eye be true, /s
+s/ s/ That is so vexed with watching and with tears? /s
+s/ s/ No marvel then, though I mistake my view; /s
+s/ s/ The sun itself sees not, till heaven clears. /s
+s/ s/ O cunning Love! with tears thou keep'st me blind, /s
+s/ s/ Lest eyes well-seeing thy foul faults should find. /s
+s/ s/ Canst thou, O cruel! say I love thee not, /s
+s/ s/ When I against myself with thee partake? /s
+s/ s/ Do I not think on thee, when I forgot /s
+s/ s/ Am of my self, all tyrant, for thy sake? /s
+s/ s/ Who hateth thee that I do call my friend, /s
+s/ s/ On whom frown'st thou that I do fawn upon, /s
+s/ s/ Nay, if thou lour'st on me, do I not spend /s
+s/ s/ Revenge upon myself with present moan? /s
+s/ s/ What merit do I in my self respect, /s
+s/ s/ That is so proud thy service to despise, /s
+s/ s/ When all my best doth worship thy defect, /s
+s/ s/ Commanded by the motion of thine eyes? /s
+s/ s/ But, love, hate on, for now I know thy mind, /s
+s/ s/ Those that can see thou lov'st, and I am blind. /s
+s/ s/ O! from what power hast thou this powerful might, /s
+s/ s/ With insufficiency my heart to sway? /s
+s/ s/ To make me give the lie to my true sight, /s
+s/ s/ And swear that brightness doth not grace the day? /s
+s/ s/ Whence hast thou this becoming of things ill, /s
+s/ s/ That in the very refuse of thy deeds /s
+s/ s/ There is such strength and warrantise of skill, /s
+s/ s/ That, in my mind, thy worst all best exceeds? /s
+s/ s/ Who taught thee how to make me love thee more, /s
+s/ s/ The more I hear and see just cause of hate? /s
+s/ s/ O! though I love what others do abhor, /s
+s/ s/ With others thou shouldst not abhor my state: /s
+s/ s/ If thy unworthiness raised love in me, /s
+s/ s/ More worthy I to be beloved of thee. /s
+s/ s/ Love is too young to know what conscience is, /s
+s/ s/ Yet who knows not conscience is born of love? /s
+s/ s/ Then, gentle cheater, urge not my amiss, /s
+s/ s/ Lest guilty of my faults thy sweet self prove: /s
+s/ s/ For, thou betraying me, I do betray /s
+s/ s/ My nobler part to my gross body's treason; /s
+s/ s/ My soul doth tell my body that he may /s
+s/ s/ Triumph in love; flesh stays no farther reason, /s
+s/ s/ But rising at thy name doth point out thee, /s
+s/ s/ As his triumphant prize. Proud of this pride, /s
+s/ s/ He is contented thy poor drudge to be, /s
+s/ s/ To stand in thy affairs, fall by thy side. /s
+s/ s/ No want of conscience hold it that I call /s
+s/ s/ Her love, for whose dear love I rise and fall. /s
+s/ s/ In loving thee thou know'st I am forsworn, /s
+s/ s/ But thou art twice forsworn, to me love swearing; /s
+s/ s/ In act thy bed-vow broke, and new faith torn, /s
+s/ s/ In vowing new hate after new love bearing: /s
+s/ s/ But why of two oaths' breach do I accuse thee, /s
+s/ s/ When I break twenty? I am perjured most; /s
+s/ s/ For all my vows are oaths but to misuse thee, /s
+s/ s/ And all my honest faith in thee is lost: /s
+s/ s/ For I have sworn deep oaths of thy deep kindness, /s
+s/ s/ Oaths of thy love, thy truth, thy constancy; /s
+s/ s/ And, to enlighten thee, gave eyes to blindness, /s
+s/ s/ Or made them swear against the thing they see; /s
+s/ s/ For I have sworn thee fair; more perjured eye, /s
+s/ s/ To swear against the truth so foul a lie! /s
+s/ s/ Cupid laid by his brand and fell asleep: /s
+s/ s/ A maid of Dian's this advantage found, /s
+s/ s/ And his love-kindling fire did quickly steep /s
+s/ s/ In a cold valley-fountain of that ground; /s
+s/ s/ Which borrowed from this holy fire of Love, /s
+s/ s/ A dateless lively heat, still to endure, /s
+s/ s/ And grew a seething bath, which yet men prove /s
+s/ s/ Against strange maladies a sovereign cure. /s
+s/ s/ But at my mistress' eye Love's brand new-fired, /s
+s/ s/ The boy for trial needs would touch my breast; /s
+s/ s/ I, sick withal, the help of bath desired, /s
+s/ s/ And thither hied, a sad distempered guest, /s
+s/ s/ But found no cure, the bath for my help lies /s
+s/ s/ Where Cupid got new fire; my mistress' eyes. /s
+s/ s/ The little Love-god lying once asleep, /s
+s/ s/ Laid by his side his heart-inflaming brand, /s
+s/ s/ Whilst many nymphs that vowed chaste life to keep /s
+s/ s/ Came tripping by; but in her maiden hand /s
+s/ s/ The fairest votary took up that fire /s
+s/ s/ Which many legions of true hearts had warmed; /s
+s/ s/ And so the General of hot desire /s
+s/ s/ Was, sleeping, by a virgin hand disarmed. /s
+s/ s/ This brand she quenched in a cool well by, /s
+s/ s/ Which from Love's fire took heat perpetual, /s
+s/ s/ Growing a bath and healthful remedy, /s
+s/ s/ For men diseased; but I, my mistress' thrall, /s
+s/ s/ Came there for cure and this by that I prove, /s
+s/ s/ Love's fire heats water, water cools not love. /s
