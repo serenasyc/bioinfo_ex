@@ -2,6 +2,7 @@
 
 * `FittingOperator`: simple logical reasoning
 * `SequenceAlignment`: global and local alignment of sequences
+* `Sonnetator`: generates Shakespearian sonnets
 
 ## Misc
 
